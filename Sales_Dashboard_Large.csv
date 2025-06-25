@@ -1,0 +1,1001 @@
+Order ID,Date,Product,Category,Region,Sales,Quantity,Profit,Customer Name
+ORD10000,2022-01-01 00:00:00,Phone,Accessories,West,320.31,13,81.96,Customer_0
+ORD10001,2022-01-01 01:00:00,Mouse,Electronics,West,719.15,12,184.01,Customer_1
+ORD10002,2022-01-01 02:00:00,Laptop,Office Supplies,South,2856.52,5,730.91,Customer_2
+ORD10003,2022-01-01 03:00:00,Laptop,Electronics,North,3849.29,10,984.93,Customer_3
+ORD10004,2022-01-01 04:00:00,Tablet,Electronics,East,4708.05,9,1204.66,Customer_4
+ORD10005,2022-01-01 05:00:00,Keyboard,Accessories,West,177.53,7,45.43,Customer_5
+ORD10006,2022-01-01 06:00:00,Monitor,Electronics,East,2661.52,2,681.01,Customer_6
+ORD10007,2022-01-01 07:00:00,Phone,Accessories,West,2407.25,7,615.95,Customer_7
+ORD10008,2022-01-01 08:00:00,Laptop,Office Supplies,South,3314.67,8,848.13,Customer_8
+ORD10009,2022-01-01 09:00:00,Phone,Office Supplies,North,2841.94,7,727.18,Customer_9
+ORD10010,2022-01-01 10:00:00,Keyboard,Office Supplies,West,3466.49,14,886.98,Customer_10
+ORD10011,2022-01-01 11:00:00,Monitor,Electronics,North,3324.6,19,850.68,Customer_11
+ORD10012,2022-01-01 12:00:00,Keyboard,Accessories,East,673.36,5,172.29,Customer_12
+ORD10013,2022-01-01 13:00:00,Monitor,Office Supplies,South,4018.62,18,1028.26,Customer_13
+ORD10014,2022-01-01 14:00:00,Printer,Accessories,North,703.84,12,180.09,Customer_14
+ORD10015,2022-01-01 15:00:00,Monitor,Accessories,South,3522.8,17,901.39,Customer_15
+ORD10016,2022-01-01 16:00:00,Tablet,Office Supplies,North,2139.11,13,547.34,Customer_16
+ORD10017,2022-01-01 17:00:00,Keyboard,Office Supplies,East,2617.87,2,669.84,Customer_17
+ORD10018,2022-01-01 18:00:00,Laptop,Accessories,East,4526.16,13,1158.12,Customer_18
+ORD10019,2022-01-01 19:00:00,Printer,Office Supplies,South,4460.43,7,1141.3,Customer_19
+ORD10020,2022-01-01 20:00:00,Tablet,Accessories,East,4107.5,10,1051.0,Customer_20
+ORD10021,2022-01-01 21:00:00,Phone,Accessories,West,2599.73,6,665.2,Customer_21
+ORD10022,2022-01-01 22:00:00,Keyboard,Office Supplies,North,3707.58,3,948.67,Customer_22
+ORD10023,2022-01-01 23:00:00,Mouse,Electronics,East,2613.2,3,668.65,Customer_23
+ORD10024,2022-01-02 00:00:00,Mouse,Office Supplies,West,4361.07,18,1115.88,Customer_24
+ORD10025,2022-01-02 01:00:00,Laptop,Electronics,South,2073.6,11,530.58,Customer_25
+ORD10026,2022-01-02 02:00:00,Monitor,Accessories,West,4854.15,5,1242.05,Customer_26
+ORD10027,2022-01-02 03:00:00,Laptop,Accessories,South,4668.38,19,1194.51,Customer_27
+ORD10028,2022-01-02 04:00:00,Mouse,Electronics,South,3733.85,19,955.39,Customer_28
+ORD10029,2022-01-02 05:00:00,Phone,Accessories,North,1469.14,15,375.91,Customer_29
+ORD10030,2022-01-02 06:00:00,Printer,Electronics,North,745.1,16,190.65,Customer_30
+ORD10031,2022-01-02 07:00:00,Printer,Electronics,West,4288.05,9,1097.2,Customer_31
+ORD10032,2022-01-02 08:00:00,Keyboard,Accessories,North,909.98,4,232.84,Customer_32
+ORD10033,2022-01-02 09:00:00,Printer,Electronics,North,4285.88,15,1096.64,Customer_33
+ORD10034,2022-01-02 10:00:00,Keyboard,Office Supplies,North,2504.75,12,640.9,Customer_34
+ORD10035,2022-01-02 11:00:00,Keyboard,Office Supplies,West,2092.13,3,535.32,Customer_35
+ORD10036,2022-01-02 12:00:00,Keyboard,Accessories,East,4525.63,14,1157.99,Customer_36
+ORD10037,2022-01-02 13:00:00,Mouse,Accessories,North,3058.87,17,782.68,Customer_37
+ORD10038,2022-01-02 14:00:00,Mouse,Electronics,North,2925.41,19,748.53,Customer_38
+ORD10039,2022-01-02 15:00:00,Monitor,Electronics,West,2837.95,6,726.15,Customer_39
+ORD10040,2022-01-02 16:00:00,Tablet,Electronics,East,1918.73,4,490.95,Customer_40
+ORD10041,2022-01-02 17:00:00,Keyboard,Electronics,North,3949.65,7,1010.61,Customer_41
+ORD10042,2022-01-02 18:00:00,Keyboard,Office Supplies,South,1338.71,19,342.54,Customer_42
+ORD10043,2022-01-02 19:00:00,Tablet,Office Supplies,West,4700.59,17,1202.75,Customer_43
+ORD10044,2022-01-02 20:00:00,Laptop,Accessories,North,4480.53,16,1146.45,Customer_44
+ORD10045,2022-01-02 21:00:00,Keyboard,Electronics,North,1753.65,15,448.71,Customer_45
+ORD10046,2022-01-02 22:00:00,Monitor,Electronics,South,3674.37,8,940.17,Customer_46
+ORD10047,2022-01-02 23:00:00,Printer,Accessories,South,2908.79,19,744.28,Customer_47
+ORD10048,2022-01-03 00:00:00,Printer,Electronics,West,1754.48,8,448.92,Customer_48
+ORD10049,2022-01-03 01:00:00,Phone,Electronics,West,4943.76,18,1264.97,Customer_49
+ORD10050,2022-01-03 02:00:00,Phone,Electronics,South,223.66,16,57.23,Customer_50
+ORD10051,2022-01-03 03:00:00,Printer,Electronics,West,1337.97,19,342.35,Customer_51
+ORD10052,2022-01-03 04:00:00,Printer,Electronics,South,2648.36,10,677.64,Customer_52
+ORD10053,2022-01-03 05:00:00,Mouse,Accessories,North,2657.57,17,680.0,Customer_53
+ORD10054,2022-01-03 06:00:00,Monitor,Electronics,South,2985.77,13,763.98,Customer_54
+ORD10055,2022-01-03 07:00:00,Tablet,Accessories,South,3783.21,13,968.02,Customer_55
+ORD10056,2022-01-03 08:00:00,Phone,Electronics,East,3155.04,7,807.29,Customer_56
+ORD10057,2022-01-03 09:00:00,Mouse,Office Supplies,South,3041.38,10,778.21,Customer_57
+ORD10058,2022-01-03 10:00:00,Mouse,Office Supplies,South,362.22,2,92.68,Customer_58
+ORD10059,2022-01-03 11:00:00,Tablet,Office Supplies,East,1945.0,4,497.67,Customer_59
+ORD10060,2022-01-03 12:00:00,Mouse,Office Supplies,West,1237.07,6,316.53,Customer_60
+ORD10061,2022-01-03 13:00:00,Monitor,Accessories,East,1400.31,18,358.3,Customer_61
+ORD10062,2022-01-03 14:00:00,Printer,Accessories,North,2816.25,6,720.6,Customer_62
+ORD10063,2022-01-03 15:00:00,Keyboard,Electronics,East,1077.58,17,275.72,Customer_63
+ORD10064,2022-01-03 16:00:00,Tablet,Office Supplies,North,1540.35,14,394.13,Customer_64
+ORD10065,2022-01-03 17:00:00,Printer,Accessories,West,1261.72,11,322.84,Customer_65
+ORD10066,2022-01-03 18:00:00,Printer,Electronics,East,4747.66,19,1214.8,Customer_66
+ORD10067,2022-01-03 19:00:00,Laptop,Electronics,East,4728.86,2,1209.99,Customer_67
+ORD10068,2022-01-03 20:00:00,Tablet,Accessories,West,3088.71,3,790.32,Customer_68
+ORD10069,2022-01-03 21:00:00,Mouse,Office Supplies,North,4630.16,11,1184.73,Customer_69
+ORD10070,2022-01-03 22:00:00,Keyboard,Electronics,East,3950.48,6,1010.82,Customer_70
+ORD10071,2022-01-03 23:00:00,Tablet,Office Supplies,North,2990.74,14,765.25,Customer_71
+ORD10072,2022-01-04 00:00:00,Mouse,Office Supplies,East,131.53,19,33.65,Customer_72
+ORD10073,2022-01-04 01:00:00,Printer,Office Supplies,South,3885.33,16,994.15,Customer_73
+ORD10074,2022-01-04 02:00:00,Keyboard,Electronics,East,3542.19,7,906.35,Customer_74
+ORD10075,2022-01-04 03:00:00,Mouse,Office Supplies,West,3114.74,8,796.98,Customer_75
+ORD10076,2022-01-04 04:00:00,Monitor,Electronics,West,3826.08,19,978.99,Customer_76
+ORD10077,2022-01-04 05:00:00,Mouse,Office Supplies,North,2613.32,16,668.68,Customer_77
+ORD10078,2022-01-04 06:00:00,Laptop,Electronics,East,3550.01,7,908.35,Customer_78
+ORD10079,2022-01-04 07:00:00,Printer,Office Supplies,North,4682.34,9,1198.08,Customer_79
+ORD10080,2022-01-04 08:00:00,Mouse,Accessories,North,1941.44,13,496.76,Customer_80
+ORD10081,2022-01-04 09:00:00,Phone,Office Supplies,South,3569.8,1,913.42,Customer_81
+ORD10082,2022-01-04 10:00:00,Phone,Office Supplies,South,2430.87,8,621.99,Customer_82
+ORD10083,2022-01-04 11:00:00,Laptop,Electronics,West,3404.56,4,871.14,Customer_83
+ORD10084,2022-01-04 12:00:00,Monitor,Electronics,North,3838.18,3,982.09,Customer_84
+ORD10085,2022-01-04 13:00:00,Printer,Office Supplies,West,322.72,3,82.58,Customer_85
+ORD10086,2022-01-04 14:00:00,Tablet,Accessories,East,3268.34,13,836.28,Customer_86
+ORD10087,2022-01-04 15:00:00,Laptop,Accessories,North,1211.03,8,309.87,Customer_87
+ORD10088,2022-01-04 16:00:00,Monitor,Electronics,North,3383.16,7,865.66,Customer_88
+ORD10089,2022-01-04 17:00:00,Tablet,Accessories,East,2394.82,1,612.77,Customer_89
+ORD10090,2022-01-04 18:00:00,Phone,Office Supplies,East,3890.41,16,995.45,Customer_90
+ORD10091,2022-01-04 19:00:00,Phone,Electronics,West,704.66,6,180.3,Customer_91
+ORD10092,2022-01-04 20:00:00,Tablet,Office Supplies,West,3168.98,7,810.86,Customer_92
+ORD10093,2022-01-04 21:00:00,Laptop,Electronics,East,1464.51,12,374.73,Customer_93
+ORD10094,2022-01-04 22:00:00,Phone,Electronics,West,4279.61,9,1095.04,Customer_94
+ORD10095,2022-01-04 23:00:00,Printer,Electronics,East,4649.08,11,1189.57,Customer_95
+ORD10096,2022-01-05 00:00:00,Keyboard,Electronics,North,4982.35,10,1274.85,Customer_96
+ORD10097,2022-01-05 01:00:00,Mouse,Accessories,North,4000.44,1,1023.6,Customer_97
+ORD10098,2022-01-05 02:00:00,Tablet,Office Supplies,South,3793.3,18,970.6,Customer_98
+ORD10099,2022-01-05 03:00:00,Tablet,Office Supplies,North,1155.95,4,295.78,Customer_99
+ORD10100,2022-01-05 04:00:00,Phone,Office Supplies,East,1746.43,5,446.86,Customer_100
+ORD10101,2022-01-05 05:00:00,Laptop,Electronics,West,2381.84,9,609.45,Customer_101
+ORD10102,2022-01-05 06:00:00,Printer,Accessories,South,3889.57,17,995.24,Customer_102
+ORD10103,2022-01-05 07:00:00,Laptop,Office Supplies,West,4583.33,3,1172.75,Customer_103
+ORD10104,2022-01-05 08:00:00,Monitor,Accessories,East,1026.78,16,262.73,Customer_104
+ORD10105,2022-01-05 09:00:00,Monitor,Electronics,North,4619.6,5,1182.03,Customer_105
+ORD10106,2022-01-05 10:00:00,Keyboard,Office Supplies,South,3508.56,16,897.75,Customer_106
+ORD10107,2022-01-05 11:00:00,Phone,Accessories,East,3092.78,3,791.36,Customer_107
+ORD10108,2022-01-05 12:00:00,Phone,Electronics,South,1079.22,15,276.14,Customer_108
+ORD10109,2022-01-05 13:00:00,Phone,Accessories,South,372.07,3,95.2,Customer_109
+ORD10110,2022-01-05 14:00:00,Keyboard,Office Supplies,North,2885.48,14,738.32,Customer_110
+ORD10111,2022-01-05 15:00:00,Monitor,Office Supplies,East,3292.43,16,842.44,Customer_111
+ORD10112,2022-01-05 16:00:00,Laptop,Electronics,West,1132.83,17,289.86,Customer_112
+ORD10113,2022-01-05 17:00:00,Keyboard,Electronics,South,2826.64,18,723.26,Customer_113
+ORD10114,2022-01-05 18:00:00,Keyboard,Electronics,South,4296.82,18,1099.44,Customer_114
+ORD10115,2022-01-05 19:00:00,Laptop,Accessories,West,4191.82,14,1072.57,Customer_115
+ORD10116,2022-01-05 20:00:00,Phone,Accessories,East,4644.04,18,1188.28,Customer_116
+ORD10117,2022-01-05 21:00:00,Printer,Accessories,South,1892.84,15,484.33,Customer_117
+ORD10118,2022-01-05 22:00:00,Laptop,Electronics,South,1658.44,15,424.35,Customer_118
+ORD10119,2022-01-05 23:00:00,Monitor,Office Supplies,South,3772.19,6,965.2,Customer_119
+ORD10120,2022-01-06 00:00:00,Tablet,Office Supplies,East,2212.45,15,566.11,Customer_120
+ORD10121,2022-01-06 01:00:00,Tablet,Accessories,East,528.99,18,135.35,Customer_121
+ORD10122,2022-01-06 02:00:00,Mouse,Accessories,West,1485.73,4,380.16,Customer_122
+ORD10123,2022-01-06 03:00:00,Mouse,Office Supplies,East,2151.05,8,550.4,Customer_123
+ORD10124,2022-01-06 04:00:00,Keyboard,Office Supplies,East,1533.33,15,392.34,Customer_124
+ORD10125,2022-01-06 05:00:00,Tablet,Accessories,North,1727.81,3,442.1,Customer_125
+ORD10126,2022-01-06 06:00:00,Printer,Accessories,West,1539.5,15,393.92,Customer_126
+ORD10127,2022-01-06 07:00:00,Phone,Office Supplies,South,303.35,13,77.62,Customer_127
+ORD10128,2022-01-06 08:00:00,Monitor,Electronics,East,3221.76,9,824.36,Customer_128
+ORD10129,2022-01-06 09:00:00,Mouse,Accessories,South,3026.73,2,774.46,Customer_129
+ORD10130,2022-01-06 10:00:00,Printer,Office Supplies,South,3301.58,8,844.79,Customer_130
+ORD10131,2022-01-06 11:00:00,Monitor,Office Supplies,North,1042.32,17,266.7,Customer_131
+ORD10132,2022-01-06 12:00:00,Monitor,Office Supplies,East,1548.71,13,396.27,Customer_132
+ORD10133,2022-01-06 13:00:00,Phone,Office Supplies,West,3136.12,1,802.45,Customer_133
+ORD10134,2022-01-06 14:00:00,Keyboard,Electronics,East,3038.18,2,777.39,Customer_134
+ORD10135,2022-01-06 15:00:00,Tablet,Office Supplies,South,2581.02,15,660.41,Customer_135
+ORD10136,2022-01-06 16:00:00,Phone,Accessories,West,1817.02,12,464.93,Customer_136
+ORD10137,2022-01-06 17:00:00,Printer,Electronics,East,4573.36,14,1170.2,Customer_137
+ORD10138,2022-01-06 18:00:00,Keyboard,Office Supplies,South,1764.87,2,451.58,Customer_138
+ORD10139,2022-01-06 19:00:00,Printer,Electronics,South,2332.53,18,596.83,Customer_139
+ORD10140,2022-01-06 20:00:00,Keyboard,Accessories,North,3422.76,7,875.79,Customer_140
+ORD10141,2022-01-06 21:00:00,Mouse,Office Supplies,North,2760.81,6,706.42,Customer_141
+ORD10142,2022-01-06 22:00:00,Printer,Accessories,North,1799.74,14,460.5,Customer_142
+ORD10143,2022-01-06 23:00:00,Phone,Office Supplies,South,2234.66,8,571.79,Customer_143
+ORD10144,2022-01-07 00:00:00,Keyboard,Office Supplies,East,3992.96,2,1021.69,Customer_144
+ORD10145,2022-01-07 01:00:00,Keyboard,Office Supplies,North,1462.83,17,374.3,Customer_145
+ORD10146,2022-01-07 02:00:00,Monitor,Office Supplies,East,797.05,5,203.94,Customer_146
+ORD10147,2022-01-07 03:00:00,Monitor,Office Supplies,North,1634.5,14,418.22,Customer_147
+ORD10148,2022-01-07 04:00:00,Laptop,Electronics,West,4262.72,3,1090.72,Customer_148
+ORD10149,2022-01-07 05:00:00,Printer,Office Supplies,West,536.05,5,137.16,Customer_149
+ORD10150,2022-01-07 06:00:00,Monitor,Office Supplies,North,4959.31,16,1268.95,Customer_150
+ORD10151,2022-01-07 07:00:00,Laptop,Electronics,South,2750.91,18,703.88,Customer_151
+ORD10152,2022-01-07 08:00:00,Mouse,Electronics,North,4925.74,17,1260.36,Customer_152
+ORD10153,2022-01-07 09:00:00,Mouse,Electronics,North,4701.08,11,1202.88,Customer_153
+ORD10154,2022-01-07 10:00:00,Monitor,Electronics,South,2318.79,17,593.32,Customer_154
+ORD10155,2022-01-07 11:00:00,Printer,Electronics,West,1072.61,16,274.45,Customer_155
+ORD10156,2022-01-07 12:00:00,Keyboard,Electronics,East,907.94,2,232.32,Customer_156
+ORD10157,2022-01-07 13:00:00,Tablet,Office Supplies,North,1275.95,4,326.48,Customer_157
+ORD10158,2022-01-07 14:00:00,Printer,Office Supplies,South,3579.65,7,915.94,Customer_158
+ORD10159,2022-01-07 15:00:00,Phone,Accessories,North,1437.45,2,367.8,Customer_159
+ORD10160,2022-01-07 16:00:00,Mouse,Office Supplies,South,1772.98,6,453.66,Customer_160
+ORD10161,2022-01-07 17:00:00,Monitor,Office Supplies,East,2299.02,17,588.26,Customer_161
+ORD10162,2022-01-07 18:00:00,Monitor,Electronics,East,4574.84,7,1170.58,Customer_162
+ORD10163,2022-01-07 19:00:00,Keyboard,Electronics,West,1028.03,5,263.05,Customer_163
+ORD10164,2022-01-07 20:00:00,Phone,Office Supplies,South,124.63,5,31.89,Customer_164
+ORD10165,2022-01-07 21:00:00,Keyboard,Accessories,South,394.47,16,100.93,Customer_165
+ORD10166,2022-01-07 22:00:00,Phone,Electronics,West,4533.36,19,1159.96,Customer_166
+ORD10167,2022-01-07 23:00:00,Tablet,Office Supplies,West,3272.83,9,837.43,Customer_167
+ORD10168,2022-01-08 00:00:00,Mouse,Office Supplies,South,1437.9,5,367.92,Customer_168
+ORD10169,2022-01-08 01:00:00,Monitor,Accessories,West,968.24,8,247.75,Customer_169
+ORD10170,2022-01-08 02:00:00,Monitor,Accessories,East,1541.91,9,394.53,Customer_170
+ORD10171,2022-01-08 03:00:00,Tablet,Electronics,North,662.5,5,169.52,Customer_171
+ORD10172,2022-01-08 04:00:00,Laptop,Accessories,East,4713.51,10,1206.06,Customer_172
+ORD10173,2022-01-08 05:00:00,Mouse,Office Supplies,West,3942.61,2,1008.81,Customer_173
+ORD10174,2022-01-08 06:00:00,Keyboard,Office Supplies,South,2365.72,9,605.32,Customer_174
+ORD10175,2022-01-08 07:00:00,Tablet,Accessories,South,4338.32,11,1110.06,Customer_175
+ORD10176,2022-01-08 08:00:00,Keyboard,Accessories,East,1322.35,4,338.35,Customer_176
+ORD10177,2022-01-08 09:00:00,Printer,Accessories,South,3613.89,2,924.7,Customer_177
+ORD10178,2022-01-08 10:00:00,Monitor,Accessories,West,4295.05,6,1098.99,Customer_178
+ORD10179,2022-01-08 11:00:00,Keyboard,Electronics,East,1848.17,14,472.9,Customer_179
+ORD10180,2022-01-08 12:00:00,Phone,Accessories,South,3811.58,1,975.28,Customer_180
+ORD10181,2022-01-08 13:00:00,Keyboard,Electronics,North,1545.85,18,395.54,Customer_181
+ORD10182,2022-01-08 14:00:00,Printer,Office Supplies,North,1564.4,7,400.29,Customer_182
+ORD10183,2022-01-08 15:00:00,Mouse,Accessories,West,624.58,1,159.81,Customer_183
+ORD10184,2022-01-08 16:00:00,Monitor,Electronics,South,2256.28,1,577.32,Customer_184
+ORD10185,2022-01-08 17:00:00,Tablet,Accessories,West,3675.59,1,940.48,Customer_185
+ORD10186,2022-01-08 18:00:00,Printer,Office Supplies,East,4707.08,4,1204.41,Customer_186
+ORD10187,2022-01-08 19:00:00,Monitor,Office Supplies,North,3058.61,4,782.62,Customer_187
+ORD10188,2022-01-08 20:00:00,Keyboard,Office Supplies,East,4329.36,18,1107.77,Customer_188
+ORD10189,2022-01-08 21:00:00,Mouse,Accessories,South,4130.22,11,1056.81,Customer_189
+ORD10190,2022-01-08 22:00:00,Laptop,Accessories,West,949.38,1,242.92,Customer_190
+ORD10191,2022-01-08 23:00:00,Mouse,Electronics,West,2480.51,10,634.7,Customer_191
+ORD10192,2022-01-09 00:00:00,Laptop,Office Supplies,West,672.93,9,172.18,Customer_192
+ORD10193,2022-01-09 01:00:00,Phone,Accessories,East,3442.55,4,880.86,Customer_193
+ORD10194,2022-01-09 02:00:00,Mouse,Office Supplies,North,4754.51,6,1216.55,Customer_194
+ORD10195,2022-01-09 03:00:00,Monitor,Office Supplies,East,771.74,16,197.47,Customer_195
+ORD10196,2022-01-09 04:00:00,Laptop,Electronics,East,3696.03,2,945.71,Customer_196
+ORD10197,2022-01-09 05:00:00,Tablet,Electronics,South,3197.97,18,818.27,Customer_197
+ORD10198,2022-01-09 06:00:00,Monitor,Electronics,South,2959.66,10,757.3,Customer_198
+ORD10199,2022-01-09 07:00:00,Tablet,Electronics,South,2011.59,17,514.71,Customer_199
+ORD10200,2022-01-09 08:00:00,Mouse,Office Supplies,North,1840.15,13,470.84,Customer_200
+ORD10201,2022-01-09 09:00:00,Tablet,Electronics,North,321.72,18,82.32,Customer_201
+ORD10202,2022-01-09 10:00:00,Laptop,Electronics,South,1167.75,13,298.8,Customer_202
+ORD10203,2022-01-09 11:00:00,Monitor,Electronics,South,174.37,17,44.62,Customer_203
+ORD10204,2022-01-09 12:00:00,Keyboard,Electronics,North,2948.94,5,754.55,Customer_204
+ORD10205,2022-01-09 13:00:00,Printer,Office Supplies,West,618.68,11,158.3,Customer_205
+ORD10206,2022-01-09 14:00:00,Laptop,Electronics,North,4377.8,7,1120.16,Customer_206
+ORD10207,2022-01-09 15:00:00,Laptop,Office Supplies,North,2663.4,10,681.49,Customer_207
+ORD10208,2022-01-09 16:00:00,Keyboard,Accessories,North,3528.48,17,902.84,Customer_208
+ORD10209,2022-01-09 17:00:00,Monitor,Office Supplies,South,2113.2,15,540.71,Customer_209
+ORD10210,2022-01-09 18:00:00,Monitor,Office Supplies,West,2846.84,18,728.43,Customer_210
+ORD10211,2022-01-09 19:00:00,Mouse,Electronics,North,4719.03,19,1207.47,Customer_211
+ORD10212,2022-01-09 20:00:00,Tablet,Accessories,South,505.4,2,129.32,Customer_212
+ORD10213,2022-01-09 21:00:00,Mouse,Accessories,East,1344.3,4,343.97,Customer_213
+ORD10214,2022-01-09 22:00:00,Keyboard,Accessories,East,3921.94,3,1003.52,Customer_214
+ORD10215,2022-01-09 23:00:00,Mouse,Accessories,North,583.81,7,149.38,Customer_215
+ORD10216,2022-01-10 00:00:00,Keyboard,Office Supplies,East,470.74,18,120.45,Customer_216
+ORD10217,2022-01-10 01:00:00,Monitor,Accessories,West,1871.55,10,478.88,Customer_217
+ORD10218,2022-01-10 02:00:00,Tablet,Office Supplies,East,551.62,7,141.14,Customer_218
+ORD10219,2022-01-10 03:00:00,Mouse,Office Supplies,East,2966.88,8,759.14,Customer_219
+ORD10220,2022-01-10 04:00:00,Laptop,Office Supplies,West,1208.75,6,309.29,Customer_220
+ORD10221,2022-01-10 05:00:00,Phone,Accessories,North,4488.92,1,1148.59,Customer_221
+ORD10222,2022-01-10 06:00:00,Printer,Electronics,North,3939.15,4,1007.92,Customer_222
+ORD10223,2022-01-10 07:00:00,Laptop,Electronics,West,3528.56,14,902.86,Customer_223
+ORD10224,2022-01-10 08:00:00,Monitor,Accessories,West,3123.03,17,799.1,Customer_224
+ORD10225,2022-01-10 09:00:00,Printer,Electronics,West,4330.98,18,1108.18,Customer_225
+ORD10226,2022-01-10 10:00:00,Phone,Electronics,East,1193.0,11,305.26,Customer_226
+ORD10227,2022-01-10 11:00:00,Phone,Office Supplies,West,4378.23,14,1120.27,Customer_227
+ORD10228,2022-01-10 12:00:00,Tablet,Office Supplies,South,3968.51,9,1015.43,Customer_228
+ORD10229,2022-01-10 13:00:00,Printer,Accessories,East,3765.99,15,963.62,Customer_229
+ORD10230,2022-01-10 14:00:00,Tablet,Accessories,North,2850.15,12,729.28,Customer_230
+ORD10231,2022-01-10 15:00:00,Laptop,Electronics,North,1306.6,10,334.32,Customer_231
+ORD10232,2022-01-10 16:00:00,Keyboard,Office Supplies,North,2175.38,19,556.62,Customer_232
+ORD10233,2022-01-10 17:00:00,Keyboard,Accessories,East,3988.5,19,1020.55,Customer_233
+ORD10234,2022-01-10 18:00:00,Keyboard,Accessories,South,255.71,6,65.43,Customer_234
+ORD10235,2022-01-10 19:00:00,Printer,Accessories,West,3932.05,6,1006.11,Customer_235
+ORD10236,2022-01-10 20:00:00,Keyboard,Accessories,West,1276.35,8,326.58,Customer_236
+ORD10237,2022-01-10 21:00:00,Laptop,Accessories,North,807.12,1,206.52,Customer_237
+ORD10238,2022-01-10 22:00:00,Tablet,Accessories,North,666.94,17,170.65,Customer_238
+ORD10239,2022-01-10 23:00:00,Printer,Electronics,East,233.53,17,59.75,Customer_239
+ORD10240,2022-01-11 00:00:00,Tablet,Office Supplies,South,2665.57,15,682.05,Customer_240
+ORD10241,2022-01-11 01:00:00,Printer,Office Supplies,West,1169.47,7,299.24,Customer_241
+ORD10242,2022-01-11 02:00:00,Tablet,Accessories,East,4948.22,19,1266.12,Customer_242
+ORD10243,2022-01-11 03:00:00,Phone,Office Supplies,West,2914.74,3,745.8,Customer_243
+ORD10244,2022-01-11 04:00:00,Tablet,Office Supplies,North,775.64,11,198.47,Customer_244
+ORD10245,2022-01-11 05:00:00,Keyboard,Office Supplies,West,3474.94,19,889.14,Customer_245
+ORD10246,2022-01-11 06:00:00,Phone,Accessories,South,4498.94,9,1151.16,Customer_246
+ORD10247,2022-01-11 07:00:00,Tablet,Accessories,South,3751.38,10,959.88,Customer_247
+ORD10248,2022-01-11 08:00:00,Printer,Office Supplies,North,474.56,2,121.43,Customer_248
+ORD10249,2022-01-11 09:00:00,Printer,Office Supplies,South,4489.83,1,1148.83,Customer_249
+ORD10250,2022-01-11 10:00:00,Printer,Accessories,South,3990.25,16,1021.0,Customer_250
+ORD10251,2022-01-11 11:00:00,Monitor,Electronics,East,875.69,18,224.07,Customer_251
+ORD10252,2022-01-11 12:00:00,Laptop,Office Supplies,West,353.75,17,90.52,Customer_252
+ORD10253,2022-01-11 13:00:00,Printer,Electronics,North,2830.82,6,724.33,Customer_253
+ORD10254,2022-01-11 14:00:00,Phone,Office Supplies,North,864.58,14,221.22,Customer_254
+ORD10255,2022-01-11 15:00:00,Printer,Electronics,North,4189.5,15,1071.98,Customer_255
+ORD10256,2022-01-11 16:00:00,Monitor,Electronics,North,1855.84,14,474.86,Customer_256
+ORD10257,2022-01-11 17:00:00,Keyboard,Electronics,North,4573.17,3,1170.15,Customer_257
+ORD10258,2022-01-11 18:00:00,Phone,Accessories,South,2871.87,19,734.83,Customer_258
+ORD10259,2022-01-11 19:00:00,Monitor,Electronics,East,995.09,12,254.62,Customer_259
+ORD10260,2022-01-11 20:00:00,Keyboard,Electronics,North,784.03,2,200.61,Customer_260
+ORD10261,2022-01-11 21:00:00,Mouse,Electronics,East,2924.71,3,748.35,Customer_261
+ORD10262,2022-01-11 22:00:00,Mouse,Office Supplies,East,3833.23,18,980.82,Customer_262
+ORD10263,2022-01-11 23:00:00,Phone,Electronics,South,3929.38,1,1005.42,Customer_263
+ORD10264,2022-01-12 00:00:00,Tablet,Office Supplies,North,1451.21,6,371.33,Customer_264
+ORD10265,2022-01-12 01:00:00,Laptop,Electronics,South,1100.81,5,281.67,Customer_265
+ORD10266,2022-01-12 02:00:00,Laptop,Electronics,North,182.11,1,46.6,Customer_266
+ORD10267,2022-01-12 03:00:00,Monitor,Accessories,South,3428.08,19,877.15,Customer_267
+ORD10268,2022-01-12 04:00:00,Keyboard,Office Supplies,East,475.18,1,121.59,Customer_268
+ORD10269,2022-01-12 05:00:00,Laptop,Electronics,North,2161.73,16,553.13,Customer_269
+ORD10270,2022-01-12 06:00:00,Keyboard,Office Supplies,West,3048.24,12,779.96,Customer_270
+ORD10271,2022-01-12 07:00:00,Keyboard,Office Supplies,East,4691.83,8,1200.51,Customer_271
+ORD10272,2022-01-12 08:00:00,Monitor,Accessories,West,1627.83,16,416.52,Customer_272
+ORD10273,2022-01-12 09:00:00,Monitor,Accessories,East,1323.88,1,338.75,Customer_273
+ORD10274,2022-01-12 10:00:00,Monitor,Accessories,South,3305.38,4,845.76,Customer_274
+ORD10275,2022-01-12 11:00:00,Laptop,Accessories,North,3134.27,10,801.98,Customer_275
+ORD10276,2022-01-12 12:00:00,Mouse,Accessories,East,1727.34,11,441.98,Customer_276
+ORD10277,2022-01-12 13:00:00,Monitor,Accessories,South,4647.7,17,1189.22,Customer_277
+ORD10278,2022-01-12 14:00:00,Laptop,Accessories,North,4239.83,7,1084.86,Customer_278
+ORD10279,2022-01-12 15:00:00,Monitor,Accessories,North,1197.51,12,306.41,Customer_279
+ORD10280,2022-01-12 16:00:00,Printer,Electronics,East,1271.8,7,325.42,Customer_280
+ORD10281,2022-01-12 17:00:00,Keyboard,Office Supplies,North,2610.27,12,667.9,Customer_281
+ORD10282,2022-01-12 18:00:00,Monitor,Accessories,East,3890.5,15,995.47,Customer_282
+ORD10283,2022-01-12 19:00:00,Phone,Accessories,North,315.8,2,80.8,Customer_283
+ORD10284,2022-01-12 20:00:00,Keyboard,Office Supplies,West,3497.34,14,894.87,Customer_284
+ORD10285,2022-01-12 21:00:00,Keyboard,Electronics,South,3276.36,13,838.33,Customer_285
+ORD10286,2022-01-12 22:00:00,Monitor,Office Supplies,West,1234.25,4,315.81,Customer_286
+ORD10287,2022-01-12 23:00:00,Mouse,Office Supplies,East,3438.63,14,879.85,Customer_287
+ORD10288,2022-01-13 00:00:00,Tablet,Accessories,West,4706.9,14,1204.37,Customer_288
+ORD10289,2022-01-13 01:00:00,Mouse,Office Supplies,East,329.25,16,84.25,Customer_289
+ORD10290,2022-01-13 02:00:00,Monitor,Office Supplies,North,1666.3,7,426.36,Customer_290
+ORD10291,2022-01-13 03:00:00,Keyboard,Accessories,North,2247.07,19,574.96,Customer_291
+ORD10292,2022-01-13 04:00:00,Phone,Accessories,East,4506.38,2,1153.06,Customer_292
+ORD10293,2022-01-13 05:00:00,Keyboard,Accessories,West,4815.08,10,1232.05,Customer_293
+ORD10294,2022-01-13 06:00:00,Mouse,Accessories,North,2276.16,18,582.41,Customer_294
+ORD10295,2022-01-13 07:00:00,Phone,Office Supplies,South,3775.14,17,965.96,Customer_295
+ORD10296,2022-01-13 08:00:00,Laptop,Office Supplies,North,2705.14,5,692.17,Customer_296
+ORD10297,2022-01-13 09:00:00,Printer,Electronics,South,2735.14,12,699.85,Customer_297
+ORD10298,2022-01-13 10:00:00,Keyboard,Electronics,West,1462.69,6,374.26,Customer_298
+ORD10299,2022-01-13 11:00:00,Monitor,Office Supplies,South,1163.09,9,297.6,Customer_299
+ORD10300,2022-01-13 12:00:00,Laptop,Electronics,South,1511.23,1,386.68,Customer_300
+ORD10301,2022-01-13 13:00:00,Printer,Office Supplies,South,2826.01,15,723.1,Customer_301
+ORD10302,2022-01-13 14:00:00,Monitor,Electronics,South,242.86,6,62.14,Customer_302
+ORD10303,2022-01-13 15:00:00,Tablet,Accessories,North,4545.52,19,1163.08,Customer_303
+ORD10304,2022-01-13 16:00:00,Monitor,Electronics,South,865.79,18,221.53,Customer_304
+ORD10305,2022-01-13 17:00:00,Phone,Accessories,North,1178.43,6,301.53,Customer_305
+ORD10306,2022-01-13 18:00:00,Phone,Accessories,South,2639.55,13,675.39,Customer_306
+ORD10307,2022-01-13 19:00:00,Tablet,Accessories,East,3579.56,1,915.91,Customer_307
+ORD10308,2022-01-13 20:00:00,Laptop,Accessories,West,569.07,13,145.61,Customer_308
+ORD10309,2022-01-13 21:00:00,Printer,Electronics,South,1656.7,7,423.9,Customer_309
+ORD10310,2022-01-13 22:00:00,Monitor,Office Supplies,East,4846.51,15,1240.09,Customer_310
+ORD10311,2022-01-13 23:00:00,Phone,Accessories,South,1385.48,12,354.51,Customer_311
+ORD10312,2022-01-14 00:00:00,Laptop,Electronics,South,1633.95,1,418.08,Customer_312
+ORD10313,2022-01-14 01:00:00,Tablet,Accessories,South,4198.84,15,1074.37,Customer_313
+ORD10314,2022-01-14 02:00:00,Mouse,Electronics,East,346.05,4,88.54,Customer_314
+ORD10315,2022-01-14 03:00:00,Keyboard,Electronics,West,2376.6,13,608.11,Customer_315
+ORD10316,2022-01-14 04:00:00,Mouse,Electronics,East,1960.12,5,501.54,Customer_316
+ORD10317,2022-01-14 05:00:00,Mouse,Office Supplies,West,1651.28,2,422.52,Customer_317
+ORD10318,2022-01-14 06:00:00,Phone,Electronics,South,1499.93,1,383.79,Customer_318
+ORD10319,2022-01-14 07:00:00,Tablet,Electronics,North,547.73,16,140.15,Customer_319
+ORD10320,2022-01-14 08:00:00,Monitor,Office Supplies,South,1642.65,6,420.31,Customer_320
+ORD10321,2022-01-14 09:00:00,Mouse,Office Supplies,West,310.96,16,79.57,Customer_321
+ORD10322,2022-01-14 10:00:00,Mouse,Electronics,East,3926.72,14,1004.74,Customer_322
+ORD10323,2022-01-14 11:00:00,Printer,Office Supplies,South,2051.32,3,524.88,Customer_323
+ORD10324,2022-01-14 12:00:00,Phone,Accessories,East,2275.13,15,582.14,Customer_324
+ORD10325,2022-01-14 13:00:00,Phone,Accessories,East,4478.61,3,1145.96,Customer_325
+ORD10326,2022-01-14 14:00:00,Monitor,Office Supplies,East,3324.47,2,850.64,Customer_326
+ORD10327,2022-01-14 15:00:00,Keyboard,Office Supplies,South,139.49,1,35.69,Customer_327
+ORD10328,2022-01-14 16:00:00,Laptop,Electronics,East,4721.56,9,1208.12,Customer_328
+ORD10329,2022-01-14 17:00:00,Printer,Office Supplies,East,1262.01,9,322.91,Customer_329
+ORD10330,2022-01-14 18:00:00,Phone,Electronics,South,627.31,7,160.51,Customer_330
+ORD10331,2022-01-14 19:00:00,Printer,Accessories,East,3863.83,3,988.65,Customer_331
+ORD10332,2022-01-14 20:00:00,Phone,Office Supplies,South,2552.34,18,653.07,Customer_332
+ORD10333,2022-01-14 21:00:00,Printer,Electronics,West,2225.48,11,569.44,Customer_333
+ORD10334,2022-01-14 22:00:00,Tablet,Electronics,West,1322.57,7,338.41,Customer_334
+ORD10335,2022-01-14 23:00:00,Mouse,Accessories,West,2782.61,9,711.99,Customer_335
+ORD10336,2022-01-15 00:00:00,Phone,Office Supplies,East,1444.48,1,369.6,Customer_336
+ORD10337,2022-01-15 01:00:00,Printer,Accessories,North,4517.76,14,1155.97,Customer_337
+ORD10338,2022-01-15 02:00:00,Laptop,Electronics,North,1154.5,6,295.41,Customer_338
+ORD10339,2022-01-15 03:00:00,Tablet,Electronics,East,4433.34,7,1134.37,Customer_339
+ORD10340,2022-01-15 04:00:00,Tablet,Office Supplies,North,2841.09,10,726.96,Customer_340
+ORD10341,2022-01-15 05:00:00,Laptop,Electronics,South,4159.59,7,1064.33,Customer_341
+ORD10342,2022-01-15 06:00:00,Printer,Office Supplies,North,3592.95,2,919.34,Customer_342
+ORD10343,2022-01-15 07:00:00,Monitor,Accessories,East,3513.81,4,899.09,Customer_343
+ORD10344,2022-01-15 08:00:00,Laptop,Office Supplies,East,1689.29,17,432.24,Customer_344
+ORD10345,2022-01-15 09:00:00,Printer,Office Supplies,South,1246.09,1,318.84,Customer_345
+ORD10346,2022-01-15 10:00:00,Laptop,Electronics,West,1133.34,10,289.99,Customer_346
+ORD10347,2022-01-15 11:00:00,Laptop,Electronics,East,4300.24,19,1100.32,Customer_347
+ORD10348,2022-01-15 12:00:00,Phone,Office Supplies,South,4120.09,15,1054.22,Customer_348
+ORD10349,2022-01-15 13:00:00,Printer,Electronics,North,2258.81,10,577.97,Customer_349
+ORD10350,2022-01-15 14:00:00,Monitor,Electronics,North,748.78,19,191.59,Customer_350
+ORD10351,2022-01-15 15:00:00,Mouse,Electronics,South,1973.04,12,504.85,Customer_351
+ORD10352,2022-01-15 16:00:00,Phone,Office Supplies,South,3134.78,16,802.11,Customer_352
+ORD10353,2022-01-15 17:00:00,Laptop,Electronics,East,2326.58,9,595.31,Customer_353
+ORD10354,2022-01-15 18:00:00,Mouse,Office Supplies,North,3922.93,15,1003.77,Customer_354
+ORD10355,2022-01-15 19:00:00,Keyboard,Electronics,South,4988.35,17,1276.38,Customer_355
+ORD10356,2022-01-15 20:00:00,Mouse,Accessories,North,1036.55,14,265.23,Customer_356
+ORD10357,2022-01-15 21:00:00,Laptop,Electronics,South,2352.29,18,601.89,Customer_357
+ORD10358,2022-01-15 22:00:00,Laptop,Electronics,North,2211.82,2,565.95,Customer_358
+ORD10359,2022-01-15 23:00:00,Printer,Office Supplies,West,1592.01,4,407.35,Customer_359
+ORD10360,2022-01-16 00:00:00,Printer,Office Supplies,East,1070.67,18,273.96,Customer_360
+ORD10361,2022-01-16 01:00:00,Phone,Electronics,North,421.89,7,107.95,Customer_361
+ORD10362,2022-01-16 02:00:00,Monitor,Accessories,West,4446.88,13,1137.84,Customer_362
+ORD10363,2022-01-16 03:00:00,Phone,Electronics,North,2157.26,15,551.98,Customer_363
+ORD10364,2022-01-16 04:00:00,Tablet,Electronics,North,2534.79,1,648.58,Customer_364
+ORD10365,2022-01-16 05:00:00,Laptop,Accessories,West,4593.02,11,1175.23,Customer_365
+ORD10366,2022-01-16 06:00:00,Mouse,Office Supplies,North,3903.82,10,998.88,Customer_366
+ORD10367,2022-01-16 07:00:00,Keyboard,Electronics,North,739.46,5,189.21,Customer_367
+ORD10368,2022-01-16 08:00:00,Laptop,Office Supplies,East,2870.56,16,734.5,Customer_368
+ORD10369,2022-01-16 09:00:00,Laptop,Office Supplies,West,2267.04,11,580.07,Customer_369
+ORD10370,2022-01-16 10:00:00,Phone,Accessories,West,4006.33,6,1025.11,Customer_370
+ORD10371,2022-01-16 11:00:00,Keyboard,Accessories,South,3648.74,9,933.61,Customer_371
+ORD10372,2022-01-16 12:00:00,Keyboard,Office Supplies,North,3482.99,13,891.2,Customer_372
+ORD10373,2022-01-16 13:00:00,Keyboard,Electronics,East,1768.67,8,452.55,Customer_373
+ORD10374,2022-01-16 14:00:00,Phone,Office Supplies,North,4044.32,14,1034.83,Customer_374
+ORD10375,2022-01-16 15:00:00,Laptop,Electronics,North,356.72,1,91.28,Customer_375
+ORD10376,2022-01-16 16:00:00,Phone,Electronics,South,882.16,17,225.72,Customer_376
+ORD10377,2022-01-16 17:00:00,Printer,Accessories,North,1744.55,5,446.38,Customer_377
+ORD10378,2022-01-16 18:00:00,Printer,Electronics,East,476.36,2,121.89,Customer_378
+ORD10379,2022-01-16 19:00:00,Phone,Electronics,East,1251.47,9,320.22,Customer_379
+ORD10380,2022-01-16 20:00:00,Keyboard,Office Supplies,South,4167.74,4,1066.41,Customer_380
+ORD10381,2022-01-16 21:00:00,Laptop,Accessories,North,4746.43,17,1214.48,Customer_381
+ORD10382,2022-01-16 22:00:00,Phone,Electronics,East,1592.55,17,407.49,Customer_382
+ORD10383,2022-01-16 23:00:00,Phone,Electronics,North,1396.13,18,357.23,Customer_383
+ORD10384,2022-01-17 00:00:00,Phone,Accessories,North,1471.47,16,376.51,Customer_384
+ORD10385,2022-01-17 01:00:00,Tablet,Office Supplies,North,1460.82,8,373.78,Customer_385
+ORD10386,2022-01-17 02:00:00,Printer,Accessories,South,276.06,11,70.64,Customer_386
+ORD10387,2022-01-17 03:00:00,Mouse,Accessories,North,4641.89,18,1187.73,Customer_387
+ORD10388,2022-01-17 04:00:00,Keyboard,Electronics,East,1147.12,10,293.52,Customer_388
+ORD10389,2022-01-17 05:00:00,Monitor,Electronics,North,2158.02,13,552.18,Customer_389
+ORD10390,2022-01-17 06:00:00,Mouse,Office Supplies,East,147.47,17,37.73,Customer_390
+ORD10391,2022-01-17 07:00:00,Keyboard,Electronics,North,4303.98,18,1101.27,Customer_391
+ORD10392,2022-01-17 08:00:00,Monitor,Electronics,East,3682.67,10,942.3,Customer_392
+ORD10393,2022-01-17 09:00:00,Tablet,Accessories,East,4739.1,16,1212.61,Customer_393
+ORD10394,2022-01-17 10:00:00,Phone,Electronics,North,3929.92,5,1005.56,Customer_394
+ORD10395,2022-01-17 11:00:00,Tablet,Office Supplies,North,1637.16,13,418.91,Customer_395
+ORD10396,2022-01-17 12:00:00,Tablet,Accessories,East,1314.58,18,336.37,Customer_396
+ORD10397,2022-01-17 13:00:00,Mouse,Office Supplies,West,3518.81,17,900.37,Customer_397
+ORD10398,2022-01-17 14:00:00,Laptop,Accessories,South,1884.15,9,482.1,Customer_398
+ORD10399,2022-01-17 15:00:00,Mouse,Electronics,West,2874.45,14,735.49,Customer_399
+ORD10400,2022-01-17 16:00:00,Printer,Accessories,West,130.66,17,33.43,Customer_400
+ORD10401,2022-01-17 17:00:00,Monitor,Accessories,North,403.24,4,103.18,Customer_401
+ORD10402,2022-01-17 18:00:00,Phone,Electronics,South,2723.3,18,696.82,Customer_402
+ORD10403,2022-01-17 19:00:00,Mouse,Electronics,West,2873.75,15,735.32,Customer_403
+ORD10404,2022-01-17 20:00:00,Monitor,Office Supplies,North,3782.12,11,967.74,Customer_404
+ORD10405,2022-01-17 21:00:00,Keyboard,Office Supplies,West,746.63,12,191.04,Customer_405
+ORD10406,2022-01-17 22:00:00,Monitor,Electronics,West,2614.6,9,669.01,Customer_406
+ORD10407,2022-01-17 23:00:00,Keyboard,Electronics,North,1052.79,13,269.38,Customer_407
+ORD10408,2022-01-18 00:00:00,Mouse,Electronics,North,556.66,15,142.43,Customer_408
+ORD10409,2022-01-18 01:00:00,Printer,Accessories,North,2111.43,15,540.26,Customer_409
+ORD10410,2022-01-18 02:00:00,Mouse,Accessories,South,900.35,5,230.38,Customer_410
+ORD10411,2022-01-18 03:00:00,Keyboard,Accessories,West,1186.73,19,303.65,Customer_411
+ORD10412,2022-01-18 04:00:00,Monitor,Electronics,North,1656.02,14,423.73,Customer_412
+ORD10413,2022-01-18 05:00:00,Monitor,Office Supplies,East,1371.0,17,350.8,Customer_413
+ORD10414,2022-01-18 06:00:00,Keyboard,Electronics,West,529.2,18,135.41,Customer_414
+ORD10415,2022-01-18 07:00:00,Tablet,Accessories,East,540.59,3,138.32,Customer_415
+ORD10416,2022-01-18 08:00:00,Printer,Accessories,South,1046.92,2,267.88,Customer_416
+ORD10417,2022-01-18 09:00:00,Laptop,Electronics,North,347.74,1,88.98,Customer_417
+ORD10418,2022-01-18 10:00:00,Phone,Electronics,East,3169.64,10,811.03,Customer_418
+ORD10419,2022-01-18 11:00:00,Monitor,Accessories,South,1507.9,19,385.83,Customer_419
+ORD10420,2022-01-18 12:00:00,Phone,Accessories,North,1470.76,17,376.33,Customer_420
+ORD10421,2022-01-18 13:00:00,Laptop,Accessories,East,1726.79,12,441.84,Customer_421
+ORD10422,2022-01-18 14:00:00,Mouse,Electronics,East,3347.7,1,856.59,Customer_422
+ORD10423,2022-01-18 15:00:00,Phone,Accessories,South,4366.11,12,1117.17,Customer_423
+ORD10424,2022-01-18 16:00:00,Laptop,Accessories,North,3819.53,17,977.31,Customer_424
+ORD10425,2022-01-18 17:00:00,Keyboard,Office Supplies,North,3664.89,3,937.75,Customer_425
+ORD10426,2022-01-18 18:00:00,Tablet,Electronics,East,2473.52,11,632.91,Customer_426
+ORD10427,2022-01-18 19:00:00,Monitor,Office Supplies,East,3499.65,17,895.47,Customer_427
+ORD10428,2022-01-18 20:00:00,Laptop,Office Supplies,East,2808.54,3,718.63,Customer_428
+ORD10429,2022-01-18 21:00:00,Phone,Accessories,North,1159.63,8,296.72,Customer_429
+ORD10430,2022-01-18 22:00:00,Monitor,Electronics,South,1122.08,4,287.11,Customer_430
+ORD10431,2022-01-18 23:00:00,Tablet,Accessories,South,1552.32,7,397.2,Customer_431
+ORD10432,2022-01-19 00:00:00,Keyboard,Electronics,North,4562.93,14,1167.53,Customer_432
+ORD10433,2022-01-19 01:00:00,Mouse,Office Supplies,West,2782.33,14,711.92,Customer_433
+ORD10434,2022-01-19 02:00:00,Monitor,Electronics,South,3696.14,4,945.74,Customer_434
+ORD10435,2022-01-19 03:00:00,Mouse,Accessories,East,1798.14,16,460.1,Customer_435
+ORD10436,2022-01-19 04:00:00,Laptop,Accessories,West,2097.81,1,536.77,Customer_436
+ORD10437,2022-01-19 05:00:00,Tablet,Accessories,West,715.27,17,183.02,Customer_437
+ORD10438,2022-01-19 06:00:00,Phone,Electronics,South,939.35,10,240.35,Customer_438
+ORD10439,2022-01-19 07:00:00,Tablet,Office Supplies,West,4154.05,16,1062.91,Customer_439
+ORD10440,2022-01-19 08:00:00,Tablet,Office Supplies,West,2965.71,16,758.85,Customer_440
+ORD10441,2022-01-19 09:00:00,Printer,Electronics,South,1753.91,8,448.78,Customer_441
+ORD10442,2022-01-19 10:00:00,Tablet,Accessories,South,4033.97,7,1032.18,Customer_442
+ORD10443,2022-01-19 11:00:00,Tablet,Office Supplies,West,1307.95,6,334.67,Customer_443
+ORD10444,2022-01-19 12:00:00,Monitor,Accessories,East,4882.56,16,1249.32,Customer_444
+ORD10445,2022-01-19 13:00:00,Phone,Electronics,North,1789.61,16,457.91,Customer_445
+ORD10446,2022-01-19 14:00:00,Monitor,Accessories,West,1752.82,7,448.5,Customer_446
+ORD10447,2022-01-19 15:00:00,Monitor,Office Supplies,West,1628.37,9,416.66,Customer_447
+ORD10448,2022-01-19 16:00:00,Laptop,Office Supplies,East,698.35,14,178.69,Customer_448
+ORD10449,2022-01-19 17:00:00,Monitor,Accessories,West,644.57,11,164.93,Customer_449
+ORD10450,2022-01-19 18:00:00,Printer,Electronics,West,3275.71,14,838.17,Customer_450
+ORD10451,2022-01-19 19:00:00,Printer,Accessories,North,4388.08,7,1122.79,Customer_451
+ORD10452,2022-01-19 20:00:00,Mouse,Electronics,North,3973.55,1,1016.72,Customer_452
+ORD10453,2022-01-19 21:00:00,Laptop,Accessories,North,791.43,13,202.51,Customer_453
+ORD10454,2022-01-19 22:00:00,Mouse,Office Supplies,South,2773.35,3,709.63,Customer_454
+ORD10455,2022-01-19 23:00:00,Mouse,Electronics,South,617.4,4,157.98,Customer_455
+ORD10456,2022-01-20 00:00:00,Keyboard,Electronics,North,321.94,11,82.38,Customer_456
+ORD10457,2022-01-20 01:00:00,Phone,Electronics,North,3316.29,2,848.55,Customer_457
+ORD10458,2022-01-20 02:00:00,Phone,Office Supplies,South,2722.25,14,696.55,Customer_458
+ORD10459,2022-01-20 03:00:00,Monitor,Accessories,East,501.92,12,128.43,Customer_459
+ORD10460,2022-01-20 04:00:00,Monitor,Office Supplies,West,271.2,17,69.39,Customer_460
+ORD10461,2022-01-20 05:00:00,Keyboard,Electronics,West,4949.81,12,1266.52,Customer_461
+ORD10462,2022-01-20 06:00:00,Monitor,Accessories,North,247.1,12,63.23,Customer_462
+ORD10463,2022-01-20 07:00:00,Phone,Office Supplies,East,2278.19,1,582.93,Customer_463
+ORD10464,2022-01-20 08:00:00,Mouse,Electronics,South,2572.63,13,658.27,Customer_464
+ORD10465,2022-01-20 09:00:00,Tablet,Electronics,North,674.67,14,172.63,Customer_465
+ORD10466,2022-01-20 10:00:00,Printer,Office Supplies,East,928.4,2,237.55,Customer_466
+ORD10467,2022-01-20 11:00:00,Tablet,Office Supplies,East,1823.84,12,466.67,Customer_467
+ORD10468,2022-01-20 12:00:00,Tablet,Office Supplies,East,3832.21,16,980.56,Customer_468
+ORD10469,2022-01-20 13:00:00,Phone,Electronics,South,2584.7,4,661.36,Customer_469
+ORD10470,2022-01-20 14:00:00,Tablet,Office Supplies,South,3225.72,8,825.37,Customer_470
+ORD10471,2022-01-20 15:00:00,Keyboard,Electronics,West,4927.36,2,1260.78,Customer_471
+ORD10472,2022-01-20 16:00:00,Laptop,Office Supplies,West,3863.23,10,988.5,Customer_472
+ORD10473,2022-01-20 17:00:00,Monitor,Electronics,East,2228.37,9,570.18,Customer_473
+ORD10474,2022-01-20 18:00:00,Laptop,Electronics,East,2287.57,15,585.33,Customer_474
+ORD10475,2022-01-20 19:00:00,Mouse,Accessories,South,3131.98,13,801.39,Customer_475
+ORD10476,2022-01-20 20:00:00,Printer,Office Supplies,West,3360.29,17,859.81,Customer_476
+ORD10477,2022-01-20 21:00:00,Monitor,Office Supplies,East,2553.48,16,653.37,Customer_477
+ORD10478,2022-01-20 22:00:00,Tablet,Electronics,West,3259.82,2,834.1,Customer_478
+ORD10479,2022-01-20 23:00:00,Printer,Electronics,West,215.31,14,55.09,Customer_479
+ORD10480,2022-01-21 00:00:00,Monitor,Electronics,East,2205.15,3,564.24,Customer_480
+ORD10481,2022-01-21 01:00:00,Keyboard,Accessories,South,1466.8,12,375.31,Customer_481
+ORD10482,2022-01-21 02:00:00,Keyboard,Accessories,East,732.95,8,187.54,Customer_482
+ORD10483,2022-01-21 03:00:00,Keyboard,Electronics,East,587.78,2,150.4,Customer_483
+ORD10484,2022-01-21 04:00:00,Keyboard,Office Supplies,West,3055.64,4,781.86,Customer_484
+ORD10485,2022-01-21 05:00:00,Tablet,Office Supplies,East,2665.64,14,682.07,Customer_485
+ORD10486,2022-01-21 06:00:00,Laptop,Accessories,South,1342.56,16,343.52,Customer_486
+ORD10487,2022-01-21 07:00:00,Monitor,Accessories,East,2407.66,19,616.06,Customer_487
+ORD10488,2022-01-21 08:00:00,Tablet,Electronics,South,2511.94,2,642.74,Customer_488
+ORD10489,2022-01-21 09:00:00,Keyboard,Office Supplies,South,1055.54,12,270.08,Customer_489
+ORD10490,2022-01-21 10:00:00,Mouse,Electronics,West,3295.26,14,843.17,Customer_490
+ORD10491,2022-01-21 11:00:00,Laptop,Accessories,North,3926.5,6,1004.69,Customer_491
+ORD10492,2022-01-21 12:00:00,Mouse,Office Supplies,North,3978.17,13,1017.91,Customer_492
+ORD10493,2022-01-21 13:00:00,Printer,Office Supplies,West,3052.1,4,780.95,Customer_493
+ORD10494,2022-01-21 14:00:00,Mouse,Accessories,East,2607.03,18,667.07,Customer_494
+ORD10495,2022-01-21 15:00:00,Printer,Electronics,West,398.94,12,102.08,Customer_495
+ORD10496,2022-01-21 16:00:00,Printer,Electronics,South,1510.37,19,386.46,Customer_496
+ORD10497,2022-01-21 17:00:00,Keyboard,Office Supplies,North,557.03,8,142.53,Customer_497
+ORD10498,2022-01-21 18:00:00,Printer,Accessories,West,4822.73,7,1234.01,Customer_498
+ORD10499,2022-01-21 19:00:00,Phone,Office Supplies,East,761.89,16,194.95,Customer_499
+ORD10500,2022-01-21 20:00:00,Monitor,Accessories,West,843.7,19,215.88,Customer_500
+ORD10501,2022-01-21 21:00:00,Monitor,Electronics,North,4458.93,6,1140.92,Customer_501
+ORD10502,2022-01-21 22:00:00,Keyboard,Accessories,West,4725.25,11,1209.06,Customer_502
+ORD10503,2022-01-21 23:00:00,Phone,Electronics,West,3852.56,5,985.77,Customer_503
+ORD10504,2022-01-22 00:00:00,Mouse,Accessories,North,126.48,16,32.36,Customer_504
+ORD10505,2022-01-22 01:00:00,Tablet,Office Supplies,South,106.6,7,27.28,Customer_505
+ORD10506,2022-01-22 02:00:00,Mouse,Electronics,South,1952.69,5,499.64,Customer_506
+ORD10507,2022-01-22 03:00:00,Tablet,Office Supplies,North,802.64,11,205.37,Customer_507
+ORD10508,2022-01-22 04:00:00,Printer,Office Supplies,West,190.09,15,48.64,Customer_508
+ORD10509,2022-01-22 05:00:00,Laptop,Electronics,North,2373.93,3,607.42,Customer_509
+ORD10510,2022-01-22 06:00:00,Tablet,Electronics,South,4721.0,5,1207.98,Customer_510
+ORD10511,2022-01-22 07:00:00,Laptop,Office Supplies,East,1686.72,5,431.59,Customer_511
+ORD10512,2022-01-22 08:00:00,Monitor,Office Supplies,West,3339.59,9,854.51,Customer_512
+ORD10513,2022-01-22 09:00:00,Laptop,Office Supplies,South,3295.95,15,843.34,Customer_513
+ORD10514,2022-01-22 10:00:00,Monitor,Office Supplies,West,1330.29,3,340.39,Customer_514
+ORD10515,2022-01-22 11:00:00,Phone,Electronics,North,3287.08,6,841.08,Customer_515
+ORD10516,2022-01-22 12:00:00,Phone,Electronics,East,1140.44,17,291.81,Customer_516
+ORD10517,2022-01-22 13:00:00,Keyboard,Office Supplies,North,697.84,8,178.56,Customer_517
+ORD10518,2022-01-22 14:00:00,Keyboard,Accessories,East,3536.78,11,904.97,Customer_518
+ORD10519,2022-01-22 15:00:00,Printer,Accessories,West,655.86,6,167.82,Customer_519
+ORD10520,2022-01-22 16:00:00,Tablet,Electronics,West,4984.86,8,1275.49,Customer_520
+ORD10521,2022-01-22 17:00:00,Printer,Office Supplies,North,998.92,10,255.6,Customer_521
+ORD10522,2022-01-22 18:00:00,Monitor,Office Supplies,East,3011.3,3,770.51,Customer_522
+ORD10523,2022-01-22 19:00:00,Printer,Electronics,East,2115.74,14,541.36,Customer_523
+ORD10524,2022-01-22 20:00:00,Laptop,Accessories,West,719.29,14,184.05,Customer_524
+ORD10525,2022-01-22 21:00:00,Monitor,Accessories,North,236.44,10,60.5,Customer_525
+ORD10526,2022-01-22 22:00:00,Keyboard,Accessories,East,3151.39,12,806.36,Customer_526
+ORD10527,2022-01-22 23:00:00,Phone,Electronics,West,4053.11,6,1037.08,Customer_527
+ORD10528,2022-01-23 00:00:00,Keyboard,Accessories,South,4225.88,12,1081.29,Customer_528
+ORD10529,2022-01-23 01:00:00,Tablet,Electronics,North,2465.3,14,630.8,Customer_529
+ORD10530,2022-01-23 02:00:00,Monitor,Electronics,South,3909.53,2,1000.34,Customer_530
+ORD10531,2022-01-23 03:00:00,Monitor,Office Supplies,North,3396.95,9,869.19,Customer_531
+ORD10532,2022-01-23 04:00:00,Laptop,Accessories,West,3648.85,10,933.64,Customer_532
+ORD10533,2022-01-23 05:00:00,Tablet,Electronics,East,2513.74,17,643.2,Customer_533
+ORD10534,2022-01-23 06:00:00,Phone,Accessories,East,3203.72,17,819.75,Customer_534
+ORD10535,2022-01-23 07:00:00,Mouse,Accessories,East,4047.08,3,1035.54,Customer_535
+ORD10536,2022-01-23 08:00:00,Monitor,Office Supplies,North,2049.63,19,524.45,Customer_536
+ORD10537,2022-01-23 09:00:00,Monitor,Accessories,West,4049.3,1,1036.11,Customer_537
+ORD10538,2022-01-23 10:00:00,Laptop,Office Supplies,South,3000.88,12,767.84,Customer_538
+ORD10539,2022-01-23 11:00:00,Printer,Electronics,West,912.92,7,233.59,Customer_539
+ORD10540,2022-01-23 12:00:00,Phone,Accessories,South,220.95,4,56.54,Customer_540
+ORD10541,2022-01-23 13:00:00,Keyboard,Electronics,North,1877.49,10,480.4,Customer_541
+ORD10542,2022-01-23 14:00:00,Tablet,Accessories,North,2778.81,13,711.02,Customer_542
+ORD10543,2022-01-23 15:00:00,Monitor,Electronics,South,4215.12,2,1078.54,Customer_543
+ORD10544,2022-01-23 16:00:00,Monitor,Accessories,South,724.68,10,185.43,Customer_544
+ORD10545,2022-01-23 17:00:00,Keyboard,Accessories,South,4021.01,4,1028.87,Customer_545
+ORD10546,2022-01-23 18:00:00,Phone,Accessories,West,4328.74,18,1107.61,Customer_546
+ORD10547,2022-01-23 19:00:00,Printer,Accessories,South,838.37,5,214.52,Customer_547
+ORD10548,2022-01-23 20:00:00,Monitor,Accessories,North,4272.81,19,1093.3,Customer_548
+ORD10549,2022-01-23 21:00:00,Phone,Accessories,North,4958.12,2,1268.65,Customer_549
+ORD10550,2022-01-23 22:00:00,Keyboard,Accessories,East,3661.51,12,936.88,Customer_550
+ORD10551,2022-01-23 23:00:00,Laptop,Accessories,South,3945.37,17,1009.51,Customer_551
+ORD10552,2022-01-24 00:00:00,Printer,Accessories,West,4972.63,10,1272.36,Customer_552
+ORD10553,2022-01-24 01:00:00,Tablet,Electronics,West,3066.86,2,784.73,Customer_553
+ORD10554,2022-01-24 02:00:00,Monitor,Office Supplies,West,1608.64,6,411.61,Customer_554
+ORD10555,2022-01-24 03:00:00,Phone,Accessories,East,4203.9,8,1075.66,Customer_555
+ORD10556,2022-01-24 04:00:00,Laptop,Office Supplies,North,3110.98,19,796.02,Customer_556
+ORD10557,2022-01-24 05:00:00,Tablet,Accessories,West,2947.86,11,754.28,Customer_557
+ORD10558,2022-01-24 06:00:00,Mouse,Accessories,North,1342.81,12,343.59,Customer_558
+ORD10559,2022-01-24 07:00:00,Phone,Electronics,East,3806.04,9,973.86,Customer_559
+ORD10560,2022-01-24 08:00:00,Phone,Electronics,South,500.17,2,127.98,Customer_560
+ORD10561,2022-01-24 09:00:00,Tablet,Office Supplies,South,4629.01,8,1184.44,Customer_561
+ORD10562,2022-01-24 10:00:00,Laptop,Electronics,South,1696.53,11,434.1,Customer_562
+ORD10563,2022-01-24 11:00:00,Mouse,Electronics,West,726.1,4,185.79,Customer_563
+ORD10564,2022-01-24 12:00:00,Keyboard,Office Supplies,South,2267.6,10,580.22,Customer_564
+ORD10565,2022-01-24 13:00:00,Laptop,Electronics,West,308.1,16,78.83,Customer_565
+ORD10566,2022-01-24 14:00:00,Printer,Accessories,East,3454.67,8,883.96,Customer_566
+ORD10567,2022-01-24 15:00:00,Monitor,Office Supplies,East,4523.26,4,1157.38,Customer_567
+ORD10568,2022-01-24 16:00:00,Tablet,Office Supplies,West,4202.59,10,1075.33,Customer_568
+ORD10569,2022-01-24 17:00:00,Keyboard,Accessories,North,724.11,12,185.28,Customer_569
+ORD10570,2022-01-24 18:00:00,Mouse,Electronics,South,718.73,14,183.9,Customer_570
+ORD10571,2022-01-24 19:00:00,Tablet,Office Supplies,South,4085.83,16,1045.45,Customer_571
+ORD10572,2022-01-24 20:00:00,Tablet,Office Supplies,South,4628.85,18,1184.4,Customer_572
+ORD10573,2022-01-24 21:00:00,Laptop,Accessories,West,2357.28,12,603.16,Customer_573
+ORD10574,2022-01-24 22:00:00,Monitor,Accessories,East,2544.96,18,651.19,Customer_574
+ORD10575,2022-01-24 23:00:00,Printer,Electronics,South,1659.48,7,424.62,Customer_575
+ORD10576,2022-01-25 00:00:00,Phone,Office Supplies,East,4481.9,7,1146.8,Customer_576
+ORD10577,2022-01-25 01:00:00,Phone,Electronics,South,3260.02,9,834.15,Customer_577
+ORD10578,2022-01-25 02:00:00,Tablet,Electronics,South,1512.43,1,386.99,Customer_578
+ORD10579,2022-01-25 03:00:00,Monitor,Accessories,West,1564.04,6,400.2,Customer_579
+ORD10580,2022-01-25 04:00:00,Mouse,Office Supplies,North,4466.88,6,1142.95,Customer_580
+ORD10581,2022-01-25 05:00:00,Mouse,Office Supplies,West,166.81,12,42.68,Customer_581
+ORD10582,2022-01-25 06:00:00,Keyboard,Office Supplies,South,1681.36,12,430.21,Customer_582
+ORD10583,2022-01-25 07:00:00,Laptop,Accessories,South,2816.35,10,720.63,Customer_583
+ORD10584,2022-01-25 08:00:00,Monitor,Accessories,North,826.27,6,211.42,Customer_584
+ORD10585,2022-01-25 09:00:00,Monitor,Accessories,East,551.28,17,141.06,Customer_585
+ORD10586,2022-01-25 10:00:00,Laptop,Accessories,East,4094.85,19,1047.76,Customer_586
+ORD10587,2022-01-25 11:00:00,Mouse,Accessories,South,4482.58,18,1146.97,Customer_587
+ORD10588,2022-01-25 12:00:00,Mouse,Office Supplies,East,4135.67,6,1058.21,Customer_588
+ORD10589,2022-01-25 13:00:00,Mouse,Electronics,South,4504.06,19,1152.47,Customer_589
+ORD10590,2022-01-25 14:00:00,Tablet,Office Supplies,North,2810.25,10,719.07,Customer_590
+ORD10591,2022-01-25 15:00:00,Monitor,Electronics,North,4080.06,8,1043.98,Customer_591
+ORD10592,2022-01-25 16:00:00,Phone,Accessories,South,1981.81,6,507.09,Customer_592
+ORD10593,2022-01-25 17:00:00,Laptop,Electronics,North,3364.71,7,860.94,Customer_593
+ORD10594,2022-01-25 18:00:00,Mouse,Office Supplies,West,4945.29,1,1265.37,Customer_594
+ORD10595,2022-01-25 19:00:00,Keyboard,Office Supplies,West,1206.07,18,308.6,Customer_595
+ORD10596,2022-01-25 20:00:00,Mouse,Electronics,North,2010.51,12,514.44,Customer_596
+ORD10597,2022-01-25 21:00:00,Mouse,Accessories,South,2452.23,16,627.46,Customer_597
+ORD10598,2022-01-25 22:00:00,Printer,Accessories,South,776.28,10,198.63,Customer_598
+ORD10599,2022-01-25 23:00:00,Tablet,Office Supplies,North,497.09,10,127.19,Customer_599
+ORD10600,2022-01-26 00:00:00,Laptop,Electronics,East,4165.64,14,1065.87,Customer_600
+ORD10601,2022-01-26 01:00:00,Printer,Accessories,West,4886.29,10,1250.27,Customer_601
+ORD10602,2022-01-26 02:00:00,Printer,Accessories,East,2083.15,10,533.02,Customer_602
+ORD10603,2022-01-26 03:00:00,Keyboard,Office Supplies,South,529.48,11,135.48,Customer_603
+ORD10604,2022-01-26 04:00:00,Monitor,Accessories,South,422.48,2,108.1,Customer_604
+ORD10605,2022-01-26 05:00:00,Keyboard,Electronics,East,4467.46,8,1143.1,Customer_605
+ORD10606,2022-01-26 06:00:00,Monitor,Office Supplies,North,2372.69,7,607.11,Customer_606
+ORD10607,2022-01-26 07:00:00,Monitor,Office Supplies,East,1668.13,8,426.83,Customer_607
+ORD10608,2022-01-26 08:00:00,Laptop,Electronics,East,2434.66,1,622.96,Customer_608
+ORD10609,2022-01-26 09:00:00,Mouse,Office Supplies,West,1659.69,2,424.67,Customer_609
+ORD10610,2022-01-26 10:00:00,Laptop,Accessories,West,2496.28,18,638.73,Customer_610
+ORD10611,2022-01-26 11:00:00,Tablet,Accessories,East,4311.83,15,1103.28,Customer_611
+ORD10612,2022-01-26 12:00:00,Monitor,Electronics,East,3002.28,1,768.2,Customer_612
+ORD10613,2022-01-26 13:00:00,Printer,Accessories,South,3503.8,5,896.53,Customer_613
+ORD10614,2022-01-26 14:00:00,Mouse,Electronics,West,1886.89,2,482.8,Customer_614
+ORD10615,2022-01-26 15:00:00,Phone,Electronics,West,3718.68,3,951.51,Customer_615
+ORD10616,2022-01-26 16:00:00,Tablet,Accessories,South,3366.42,19,861.38,Customer_616
+ORD10617,2022-01-26 17:00:00,Laptop,Electronics,North,685.85,18,175.49,Customer_617
+ORD10618,2022-01-26 18:00:00,Keyboard,Accessories,West,2905.95,18,743.55,Customer_618
+ORD10619,2022-01-26 19:00:00,Tablet,Office Supplies,West,1358.04,14,347.49,Customer_619
+ORD10620,2022-01-26 20:00:00,Tablet,Office Supplies,North,4040.07,8,1033.74,Customer_620
+ORD10621,2022-01-26 21:00:00,Mouse,Electronics,West,2187.09,12,559.62,Customer_621
+ORD10622,2022-01-26 22:00:00,Tablet,Accessories,West,4973.95,10,1272.7,Customer_622
+ORD10623,2022-01-26 23:00:00,Tablet,Accessories,North,553.25,17,141.56,Customer_623
+ORD10624,2022-01-27 00:00:00,Phone,Office Supplies,North,3923.7,11,1003.97,Customer_624
+ORD10625,2022-01-27 01:00:00,Keyboard,Office Supplies,East,3401.14,2,870.26,Customer_625
+ORD10626,2022-01-27 02:00:00,Keyboard,Accessories,South,3860.74,4,987.86,Customer_626
+ORD10627,2022-01-27 03:00:00,Keyboard,Electronics,South,1606.9,1,411.16,Customer_627
+ORD10628,2022-01-27 04:00:00,Monitor,Office Supplies,North,2511.07,15,642.52,Customer_628
+ORD10629,2022-01-27 05:00:00,Printer,Electronics,North,4002.89,13,1024.23,Customer_629
+ORD10630,2022-01-27 06:00:00,Keyboard,Electronics,West,1239.45,8,317.14,Customer_630
+ORD10631,2022-01-27 07:00:00,Tablet,Office Supplies,East,1207.56,4,308.98,Customer_631
+ORD10632,2022-01-27 08:00:00,Tablet,Electronics,East,2800.15,10,716.48,Customer_632
+ORD10633,2022-01-27 09:00:00,Keyboard,Electronics,North,2665.46,19,682.02,Customer_633
+ORD10634,2022-01-27 10:00:00,Mouse,Accessories,West,1483.09,18,379.48,Customer_634
+ORD10635,2022-01-27 11:00:00,Keyboard,Electronics,West,1560.57,5,399.31,Customer_635
+ORD10636,2022-01-27 12:00:00,Tablet,Accessories,South,1461.44,19,373.94,Customer_636
+ORD10637,2022-01-27 13:00:00,Monitor,Office Supplies,South,3880.41,16,992.89,Customer_637
+ORD10638,2022-01-27 14:00:00,Laptop,Office Supplies,West,3294.31,1,842.93,Customer_638
+ORD10639,2022-01-27 15:00:00,Laptop,Accessories,South,4178.84,12,1069.25,Customer_639
+ORD10640,2022-01-27 16:00:00,Keyboard,Office Supplies,North,4879.82,2,1248.61,Customer_640
+ORD10641,2022-01-27 17:00:00,Phone,Electronics,West,2423.41,8,620.09,Customer_641
+ORD10642,2022-01-27 18:00:00,Keyboard,Electronics,South,426.8,18,109.21,Customer_642
+ORD10643,2022-01-27 19:00:00,Mouse,Electronics,East,335.65,16,85.88,Customer_643
+ORD10644,2022-01-27 20:00:00,Keyboard,Office Supplies,West,1548.76,5,396.29,Customer_644
+ORD10645,2022-01-27 21:00:00,Laptop,Electronics,West,4669.47,13,1194.79,Customer_645
+ORD10646,2022-01-27 22:00:00,Tablet,Office Supplies,East,2663.74,19,681.58,Customer_646
+ORD10647,2022-01-27 23:00:00,Keyboard,Electronics,North,1431.75,3,366.35,Customer_647
+ORD10648,2022-01-28 00:00:00,Tablet,Accessories,East,2055.92,8,526.05,Customer_648
+ORD10649,2022-01-28 01:00:00,Tablet,Office Supplies,West,3033.12,12,776.09,Customer_649
+ORD10650,2022-01-28 02:00:00,Phone,Office Supplies,North,3299.45,2,844.24,Customer_650
+ORD10651,2022-01-28 03:00:00,Tablet,Electronics,South,854.21,11,218.57,Customer_651
+ORD10652,2022-01-28 04:00:00,Laptop,Office Supplies,South,4887.46,12,1250.57,Customer_652
+ORD10653,2022-01-28 05:00:00,Monitor,Office Supplies,South,2769.38,18,708.61,Customer_653
+ORD10654,2022-01-28 06:00:00,Monitor,Accessories,West,764.87,13,195.71,Customer_654
+ORD10655,2022-01-28 07:00:00,Printer,Accessories,East,4478.81,5,1146.01,Customer_655
+ORD10656,2022-01-28 08:00:00,Mouse,Electronics,North,465.73,12,119.17,Customer_656
+ORD10657,2022-01-28 09:00:00,Keyboard,Accessories,South,4547.9,2,1163.68,Customer_657
+ORD10658,2022-01-28 10:00:00,Mouse,Electronics,North,4983.17,5,1275.06,Customer_658
+ORD10659,2022-01-28 11:00:00,Laptop,Electronics,West,3532.12,7,903.77,Customer_659
+ORD10660,2022-01-28 12:00:00,Tablet,Electronics,South,3875.19,12,991.56,Customer_660
+ORD10661,2022-01-28 13:00:00,Monitor,Office Supplies,West,1752.78,16,448.49,Customer_661
+ORD10662,2022-01-28 14:00:00,Mouse,Accessories,East,4713.73,8,1206.12,Customer_662
+ORD10663,2022-01-28 15:00:00,Laptop,Electronics,West,2695.6,9,689.73,Customer_663
+ORD10664,2022-01-28 16:00:00,Monitor,Accessories,West,3688.7,15,943.84,Customer_664
+ORD10665,2022-01-28 17:00:00,Tablet,Electronics,East,4628.13,5,1184.21,Customer_665
+ORD10666,2022-01-28 18:00:00,Mouse,Accessories,North,4878.38,13,1248.25,Customer_666
+ORD10667,2022-01-28 19:00:00,Monitor,Accessories,East,4182.7,5,1070.24,Customer_667
+ORD10668,2022-01-28 20:00:00,Keyboard,Electronics,East,1584.79,11,405.51,Customer_668
+ORD10669,2022-01-28 21:00:00,Keyboard,Office Supplies,West,4836.08,10,1237.42,Customer_669
+ORD10670,2022-01-28 22:00:00,Printer,Accessories,North,3177.79,13,813.11,Customer_670
+ORD10671,2022-01-28 23:00:00,Printer,Office Supplies,South,4660.15,9,1192.41,Customer_671
+ORD10672,2022-01-29 00:00:00,Monitor,Office Supplies,East,3412.91,14,873.27,Customer_672
+ORD10673,2022-01-29 01:00:00,Laptop,Electronics,North,1605.47,18,410.8,Customer_673
+ORD10674,2022-01-29 02:00:00,Keyboard,Electronics,East,1913.12,15,489.52,Customer_674
+ORD10675,2022-01-29 03:00:00,Laptop,Electronics,East,2797.31,10,715.76,Customer_675
+ORD10676,2022-01-29 04:00:00,Laptop,Accessories,East,3971.07,7,1016.09,Customer_676
+ORD10677,2022-01-29 05:00:00,Monitor,Electronics,East,1658.11,8,424.27,Customer_677
+ORD10678,2022-01-29 06:00:00,Laptop,Electronics,West,2940.68,3,752.44,Customer_678
+ORD10679,2022-01-29 07:00:00,Keyboard,Accessories,North,1793.56,15,458.92,Customer_679
+ORD10680,2022-01-29 08:00:00,Tablet,Accessories,North,4097.27,16,1048.38,Customer_680
+ORD10681,2022-01-29 09:00:00,Printer,Electronics,North,2386.97,4,610.76,Customer_681
+ORD10682,2022-01-29 10:00:00,Tablet,Electronics,East,475.94,6,121.78,Customer_682
+ORD10683,2022-01-29 11:00:00,Laptop,Electronics,West,913.66,1,233.78,Customer_683
+ORD10684,2022-01-29 12:00:00,Tablet,Electronics,East,399.41,4,102.2,Customer_684
+ORD10685,2022-01-29 13:00:00,Keyboard,Office Supplies,East,2546.58,11,651.6,Customer_685
+ORD10686,2022-01-29 14:00:00,Keyboard,Office Supplies,North,621.05,12,158.91,Customer_686
+ORD10687,2022-01-29 15:00:00,Laptop,Electronics,East,659.29,5,168.69,Customer_687
+ORD10688,2022-01-29 16:00:00,Monitor,Office Supplies,South,4711.14,16,1205.45,Customer_688
+ORD10689,2022-01-29 17:00:00,Tablet,Accessories,East,4376.01,13,1119.7,Customer_689
+ORD10690,2022-01-29 18:00:00,Monitor,Office Supplies,South,2315.22,13,592.4,Customer_690
+ORD10691,2022-01-29 19:00:00,Monitor,Office Supplies,East,4930.45,17,1261.57,Customer_691
+ORD10692,2022-01-29 20:00:00,Phone,Electronics,West,100.91,7,25.82,Customer_692
+ORD10693,2022-01-29 21:00:00,Laptop,Office Supplies,West,3108.5,8,795.38,Customer_693
+ORD10694,2022-01-29 22:00:00,Printer,Office Supplies,North,3120.5,13,798.45,Customer_694
+ORD10695,2022-01-29 23:00:00,Keyboard,Office Supplies,East,2341.47,16,599.12,Customer_695
+ORD10696,2022-01-30 00:00:00,Keyboard,Office Supplies,South,2045.05,4,523.27,Customer_696
+ORD10697,2022-01-30 01:00:00,Laptop,Accessories,South,2331.38,8,596.54,Customer_697
+ORD10698,2022-01-30 02:00:00,Mouse,Electronics,East,2133.31,16,545.86,Customer_698
+ORD10699,2022-01-30 03:00:00,Mouse,Electronics,South,3679.41,10,941.46,Customer_699
+ORD10700,2022-01-30 04:00:00,Mouse,Accessories,West,763.24,12,195.29,Customer_700
+ORD10701,2022-01-30 05:00:00,Printer,Office Supplies,South,1068.43,12,273.38,Customer_701
+ORD10702,2022-01-30 06:00:00,Keyboard,Accessories,North,984.54,5,251.92,Customer_702
+ORD10703,2022-01-30 07:00:00,Laptop,Office Supplies,West,1386.11,16,354.67,Customer_703
+ORD10704,2022-01-30 08:00:00,Keyboard,Accessories,West,2673.77,1,684.15,Customer_704
+ORD10705,2022-01-30 09:00:00,Monitor,Electronics,West,644.92,9,165.02,Customer_705
+ORD10706,2022-01-30 10:00:00,Tablet,Electronics,East,4354.03,12,1114.08,Customer_706
+ORD10707,2022-01-30 11:00:00,Tablet,Electronics,East,1557.07,5,398.41,Customer_707
+ORD10708,2022-01-30 12:00:00,Keyboard,Office Supplies,West,896.44,3,229.37,Customer_708
+ORD10709,2022-01-30 13:00:00,Phone,Office Supplies,East,3410.54,5,872.67,Customer_709
+ORD10710,2022-01-30 14:00:00,Printer,Accessories,South,286.62,2,73.34,Customer_710
+ORD10711,2022-01-30 15:00:00,Mouse,Accessories,East,3137.85,14,802.89,Customer_711
+ORD10712,2022-01-30 16:00:00,Printer,Electronics,East,3521.17,2,900.97,Customer_712
+ORD10713,2022-01-30 17:00:00,Printer,Office Supplies,West,1153.09,13,295.04,Customer_713
+ORD10714,2022-01-30 18:00:00,Monitor,Accessories,North,305.62,7,78.2,Customer_714
+ORD10715,2022-01-30 19:00:00,Printer,Office Supplies,North,1881.86,10,481.52,Customer_715
+ORD10716,2022-01-30 20:00:00,Tablet,Office Supplies,North,583.11,13,149.2,Customer_716
+ORD10717,2022-01-30 21:00:00,Monitor,Electronics,South,670.74,16,171.62,Customer_717
+ORD10718,2022-01-30 22:00:00,Laptop,Electronics,East,1345.88,14,344.37,Customer_718
+ORD10719,2022-01-30 23:00:00,Printer,Office Supplies,North,1547.79,11,396.04,Customer_719
+ORD10720,2022-01-31 00:00:00,Printer,Office Supplies,West,2696.85,10,690.05,Customer_720
+ORD10721,2022-01-31 01:00:00,Laptop,Office Supplies,North,3424.12,6,876.14,Customer_721
+ORD10722,2022-01-31 02:00:00,Printer,Office Supplies,North,3004.58,4,768.79,Customer_722
+ORD10723,2022-01-31 03:00:00,Laptop,Electronics,East,826.97,1,211.6,Customer_723
+ORD10724,2022-01-31 04:00:00,Monitor,Accessories,East,943.22,7,241.34,Customer_724
+ORD10725,2022-01-31 05:00:00,Tablet,Electronics,East,4405.97,9,1127.37,Customer_725
+ORD10726,2022-01-31 06:00:00,Laptop,Accessories,South,2835.93,8,725.64,Customer_726
+ORD10727,2022-01-31 07:00:00,Phone,Office Supplies,South,4362.7,5,1116.3,Customer_727
+ORD10728,2022-01-31 08:00:00,Laptop,Accessories,North,1920.58,19,491.42,Customer_728
+ORD10729,2022-01-31 09:00:00,Printer,Electronics,East,3110.56,10,795.91,Customer_729
+ORD10730,2022-01-31 10:00:00,Mouse,Electronics,North,2665.95,11,682.14,Customer_730
+ORD10731,2022-01-31 11:00:00,Mouse,Office Supplies,West,1663.71,15,425.7,Customer_731
+ORD10732,2022-01-31 12:00:00,Monitor,Electronics,West,2402.59,6,614.76,Customer_732
+ORD10733,2022-01-31 13:00:00,Keyboard,Office Supplies,East,2562.21,15,655.6,Customer_733
+ORD10734,2022-01-31 14:00:00,Monitor,Electronics,East,1083.78,5,277.31,Customer_734
+ORD10735,2022-01-31 15:00:00,Keyboard,Electronics,West,1643.55,19,420.54,Customer_735
+ORD10736,2022-01-31 16:00:00,Mouse,Office Supplies,East,3977.91,19,1017.84,Customer_736
+ORD10737,2022-01-31 17:00:00,Mouse,Accessories,South,4587.36,10,1173.78,Customer_737
+ORD10738,2022-01-31 18:00:00,Laptop,Electronics,South,1862.99,12,476.69,Customer_738
+ORD10739,2022-01-31 19:00:00,Tablet,Accessories,East,1604.16,4,410.46,Customer_739
+ORD10740,2022-01-31 20:00:00,Phone,Electronics,West,1056.47,18,270.32,Customer_740
+ORD10741,2022-01-31 21:00:00,Monitor,Electronics,North,3424.61,16,876.27,Customer_741
+ORD10742,2022-01-31 22:00:00,Printer,Electronics,East,1683.19,8,430.68,Customer_742
+ORD10743,2022-01-31 23:00:00,Keyboard,Electronics,East,4939.97,4,1264.01,Customer_743
+ORD10744,2022-02-01 00:00:00,Printer,Accessories,North,1695.86,12,433.92,Customer_744
+ORD10745,2022-02-01 01:00:00,Tablet,Accessories,East,2031.27,2,519.75,Customer_745
+ORD10746,2022-02-01 02:00:00,Keyboard,Electronics,North,3056.34,4,782.03,Customer_746
+ORD10747,2022-02-01 03:00:00,Monitor,Electronics,West,4028.25,5,1030.72,Customer_747
+ORD10748,2022-02-01 04:00:00,Laptop,Accessories,South,2400.64,3,614.26,Customer_748
+ORD10749,2022-02-01 05:00:00,Printer,Office Supplies,West,2171.01,9,555.5,Customer_749
+ORD10750,2022-02-01 06:00:00,Tablet,Office Supplies,South,4978.63,18,1273.9,Customer_750
+ORD10751,2022-02-01 07:00:00,Monitor,Accessories,North,151.42,11,38.74,Customer_751
+ORD10752,2022-02-01 08:00:00,Mouse,Electronics,South,4485.82,3,1147.8,Customer_752
+ORD10753,2022-02-01 09:00:00,Mouse,Electronics,West,830.79,2,212.58,Customer_753
+ORD10754,2022-02-01 10:00:00,Monitor,Office Supplies,South,3951.03,9,1010.96,Customer_754
+ORD10755,2022-02-01 11:00:00,Monitor,Office Supplies,North,3127.86,14,800.34,Customer_755
+ORD10756,2022-02-01 12:00:00,Monitor,Accessories,South,1775.05,4,454.19,Customer_756
+ORD10757,2022-02-01 13:00:00,Keyboard,Office Supplies,East,4381.99,9,1121.23,Customer_757
+ORD10758,2022-02-01 14:00:00,Monitor,Accessories,West,163.25,13,41.77,Customer_758
+ORD10759,2022-02-01 15:00:00,Printer,Office Supplies,East,1210.78,18,309.81,Customer_759
+ORD10760,2022-02-01 16:00:00,Tablet,Office Supplies,North,2877.77,15,736.34,Customer_760
+ORD10761,2022-02-01 17:00:00,Keyboard,Office Supplies,South,1822.56,10,466.34,Customer_761
+ORD10762,2022-02-01 18:00:00,Monitor,Electronics,East,3090.85,16,790.87,Customer_762
+ORD10763,2022-02-01 19:00:00,Phone,Electronics,East,218.14,12,55.82,Customer_763
+ORD10764,2022-02-01 20:00:00,Phone,Electronics,South,670.65,5,171.6,Customer_764
+ORD10765,2022-02-01 21:00:00,Tablet,Office Supplies,South,722.77,2,184.94,Customer_765
+ORD10766,2022-02-01 22:00:00,Mouse,Accessories,West,1027.49,10,262.91,Customer_766
+ORD10767,2022-02-01 23:00:00,Laptop,Accessories,East,2350.72,1,601.49,Customer_767
+ORD10768,2022-02-02 00:00:00,Laptop,Accessories,East,3785.43,7,968.59,Customer_768
+ORD10769,2022-02-02 01:00:00,Mouse,Accessories,North,4537.14,17,1160.93,Customer_769
+ORD10770,2022-02-02 02:00:00,Keyboard,Electronics,West,4193.33,16,1072.96,Customer_770
+ORD10771,2022-02-02 03:00:00,Keyboard,Electronics,North,1064.75,3,272.44,Customer_771
+ORD10772,2022-02-02 04:00:00,Keyboard,Office Supplies,East,2261.64,14,578.69,Customer_772
+ORD10773,2022-02-02 05:00:00,Laptop,Office Supplies,North,1077.12,10,275.61,Customer_773
+ORD10774,2022-02-02 06:00:00,Phone,Accessories,East,1395.91,7,357.18,Customer_774
+ORD10775,2022-02-02 07:00:00,Laptop,Electronics,East,2567.38,17,656.92,Customer_775
+ORD10776,2022-02-02 08:00:00,Printer,Accessories,North,433.73,6,110.98,Customer_776
+ORD10777,2022-02-02 09:00:00,Monitor,Office Supplies,North,1169.05,4,299.13,Customer_777
+ORD10778,2022-02-02 10:00:00,Keyboard,Office Supplies,South,4683.35,17,1198.34,Customer_778
+ORD10779,2022-02-02 11:00:00,Phone,Accessories,South,2383.97,9,609.99,Customer_779
+ORD10780,2022-02-02 12:00:00,Tablet,Office Supplies,South,2282.39,4,584.0,Customer_780
+ORD10781,2022-02-02 13:00:00,Tablet,Accessories,East,171.38,7,43.85,Customer_781
+ORD10782,2022-02-02 14:00:00,Monitor,Electronics,North,1312.26,2,335.77,Customer_782
+ORD10783,2022-02-02 15:00:00,Phone,Accessories,West,4344.83,17,1111.72,Customer_783
+ORD10784,2022-02-02 16:00:00,Laptop,Electronics,East,906.68,8,231.99,Customer_784
+ORD10785,2022-02-02 17:00:00,Laptop,Electronics,West,2134.11,15,546.06,Customer_785
+ORD10786,2022-02-02 18:00:00,Printer,Office Supplies,North,170.22,15,43.55,Customer_786
+ORD10787,2022-02-02 19:00:00,Printer,Office Supplies,East,2443.84,8,625.31,Customer_787
+ORD10788,2022-02-02 20:00:00,Laptop,Office Supplies,West,203.0,16,51.94,Customer_788
+ORD10789,2022-02-02 21:00:00,Tablet,Accessories,West,4116.09,19,1053.2,Customer_789
+ORD10790,2022-02-02 22:00:00,Keyboard,Accessories,South,4141.78,11,1059.77,Customer_790
+ORD10791,2022-02-02 23:00:00,Tablet,Office Supplies,South,3959.94,2,1013.24,Customer_791
+ORD10792,2022-02-03 00:00:00,Printer,Accessories,South,1488.48,17,380.86,Customer_792
+ORD10793,2022-02-03 01:00:00,Monitor,Office Supplies,East,4202.46,16,1075.3,Customer_793
+ORD10794,2022-02-03 02:00:00,Laptop,Accessories,North,2760.69,15,706.39,Customer_794
+ORD10795,2022-02-03 03:00:00,Printer,Electronics,North,1931.66,13,494.26,Customer_795
+ORD10796,2022-02-03 04:00:00,Printer,Electronics,South,3164.12,15,809.61,Customer_796
+ORD10797,2022-02-03 05:00:00,Keyboard,Office Supplies,South,160.47,4,41.06,Customer_797
+ORD10798,2022-02-03 06:00:00,Laptop,Accessories,South,800.51,16,204.83,Customer_798
+ORD10799,2022-02-03 07:00:00,Keyboard,Accessories,West,3737.24,12,956.26,Customer_799
+ORD10800,2022-02-03 08:00:00,Laptop,Electronics,South,1296.39,4,331.71,Customer_800
+ORD10801,2022-02-03 09:00:00,Keyboard,Electronics,West,3030.24,3,775.36,Customer_801
+ORD10802,2022-02-03 10:00:00,Tablet,Office Supplies,North,1987.0,17,508.42,Customer_802
+ORD10803,2022-02-03 11:00:00,Monitor,Electronics,East,4288.55,18,1097.32,Customer_803
+ORD10804,2022-02-03 12:00:00,Monitor,Office Supplies,East,4766.83,18,1219.7,Customer_804
+ORD10805,2022-02-03 13:00:00,Laptop,Electronics,East,4429.47,17,1133.38,Customer_805
+ORD10806,2022-02-03 14:00:00,Phone,Electronics,East,1426.04,12,364.89,Customer_806
+ORD10807,2022-02-03 15:00:00,Mouse,Accessories,West,1051.4,4,269.02,Customer_807
+ORD10808,2022-02-03 16:00:00,Printer,Electronics,West,2424.73,12,620.42,Customer_808
+ORD10809,2022-02-03 17:00:00,Printer,Electronics,South,135.94,15,34.78,Customer_809
+ORD10810,2022-02-03 18:00:00,Laptop,Office Supplies,West,226.47,16,57.95,Customer_810
+ORD10811,2022-02-03 19:00:00,Keyboard,Electronics,South,2811.12,5,719.29,Customer_811
+ORD10812,2022-02-03 20:00:00,Phone,Office Supplies,South,2650.2,15,678.11,Customer_812
+ORD10813,2022-02-03 21:00:00,Tablet,Electronics,East,4973.45,17,1272.57,Customer_813
+ORD10814,2022-02-03 22:00:00,Keyboard,Electronics,West,1089.02,18,278.65,Customer_814
+ORD10815,2022-02-03 23:00:00,Keyboard,Office Supplies,West,1364.71,5,349.19,Customer_815
+ORD10816,2022-02-04 00:00:00,Laptop,Accessories,South,656.35,13,167.94,Customer_816
+ORD10817,2022-02-04 01:00:00,Laptop,Office Supplies,South,4595.96,19,1175.98,Customer_817
+ORD10818,2022-02-04 02:00:00,Printer,Office Supplies,North,3911.28,13,1000.79,Customer_818
+ORD10819,2022-02-04 03:00:00,Laptop,Office Supplies,North,4129.46,18,1056.62,Customer_819
+ORD10820,2022-02-04 04:00:00,Laptop,Accessories,South,4523.54,14,1157.45,Customer_820
+ORD10821,2022-02-04 05:00:00,Laptop,Electronics,North,2672.01,4,683.7,Customer_821
+ORD10822,2022-02-04 06:00:00,Printer,Office Supplies,North,2310.85,4,591.28,Customer_822
+ORD10823,2022-02-04 07:00:00,Tablet,Office Supplies,South,1718.92,19,439.83,Customer_823
+ORD10824,2022-02-04 08:00:00,Tablet,Accessories,South,2987.15,13,764.33,Customer_824
+ORD10825,2022-02-04 09:00:00,Mouse,Office Supplies,West,2325.96,12,595.15,Customer_825
+ORD10826,2022-02-04 10:00:00,Mouse,Electronics,South,2312.67,7,591.75,Customer_826
+ORD10827,2022-02-04 11:00:00,Laptop,Accessories,South,4690.95,12,1200.29,Customer_827
+ORD10828,2022-02-04 12:00:00,Mouse,Electronics,East,4921.75,4,1259.34,Customer_828
+ORD10829,2022-02-04 13:00:00,Printer,Electronics,West,4002.77,2,1024.2,Customer_829
+ORD10830,2022-02-04 14:00:00,Tablet,Accessories,West,3808.11,2,974.39,Customer_830
+ORD10831,2022-02-04 15:00:00,Keyboard,Office Supplies,West,3434.73,5,878.85,Customer_831
+ORD10832,2022-02-04 16:00:00,Tablet,Electronics,East,913.77,10,233.81,Customer_832
+ORD10833,2022-02-04 17:00:00,Tablet,Electronics,South,389.62,10,99.69,Customer_833
+ORD10834,2022-02-04 18:00:00,Printer,Electronics,West,3484.56,9,891.6,Customer_834
+ORD10835,2022-02-04 19:00:00,Mouse,Electronics,West,3671.05,13,939.32,Customer_835
+ORD10836,2022-02-04 20:00:00,Keyboard,Accessories,North,330.17,7,84.48,Customer_836
+ORD10837,2022-02-04 21:00:00,Printer,Accessories,West,4647.45,5,1189.16,Customer_837
+ORD10838,2022-02-04 22:00:00,Laptop,Electronics,South,546.59,10,139.86,Customer_838
+ORD10839,2022-02-04 23:00:00,Monitor,Office Supplies,South,1500.91,10,384.04,Customer_839
+ORD10840,2022-02-05 00:00:00,Tablet,Electronics,North,3394.71,6,868.61,Customer_840
+ORD10841,2022-02-05 01:00:00,Monitor,Office Supplies,West,932.38,19,238.57,Customer_841
+ORD10842,2022-02-05 02:00:00,Printer,Electronics,West,371.54,8,95.07,Customer_842
+ORD10843,2022-02-05 03:00:00,Printer,Office Supplies,West,1722.62,1,440.77,Customer_843
+ORD10844,2022-02-05 04:00:00,Printer,Electronics,East,3853.26,17,985.95,Customer_844
+ORD10845,2022-02-05 05:00:00,Monitor,Office Supplies,West,2127.03,7,544.25,Customer_845
+ORD10846,2022-02-05 06:00:00,Printer,Electronics,South,3299.57,14,844.27,Customer_846
+ORD10847,2022-02-05 07:00:00,Laptop,Electronics,South,2940.13,17,752.3,Customer_847
+ORD10848,2022-02-05 08:00:00,Printer,Office Supplies,East,208.87,9,53.44,Customer_848
+ORD10849,2022-02-05 09:00:00,Phone,Accessories,East,4943.85,17,1265.0,Customer_849
+ORD10850,2022-02-05 10:00:00,Mouse,Office Supplies,West,303.0,5,77.53,Customer_850
+ORD10851,2022-02-05 11:00:00,Monitor,Accessories,North,4842.23,8,1239.0,Customer_851
+ORD10852,2022-02-05 12:00:00,Phone,Electronics,East,2794.33,6,714.99,Customer_852
+ORD10853,2022-02-05 13:00:00,Printer,Office Supplies,East,4819.48,11,1233.17,Customer_853
+ORD10854,2022-02-05 14:00:00,Laptop,Office Supplies,West,662.29,19,169.46,Customer_854
+ORD10855,2022-02-05 15:00:00,Tablet,Office Supplies,West,2503.0,4,640.45,Customer_855
+ORD10856,2022-02-05 16:00:00,Keyboard,Accessories,East,930.57,18,238.11,Customer_856
+ORD10857,2022-02-05 17:00:00,Mouse,Accessories,North,349.78,1,89.5,Customer_857
+ORD10858,2022-02-05 18:00:00,Keyboard,Electronics,East,3125.89,13,799.83,Customer_858
+ORD10859,2022-02-05 19:00:00,Printer,Accessories,West,1118.14,14,286.1,Customer_859
+ORD10860,2022-02-05 20:00:00,Mouse,Accessories,West,2979.72,1,762.43,Customer_860
+ORD10861,2022-02-05 21:00:00,Mouse,Electronics,East,650.59,11,166.47,Customer_861
+ORD10862,2022-02-05 22:00:00,Laptop,Office Supplies,North,1726.73,17,441.82,Customer_862
+ORD10863,2022-02-05 23:00:00,Mouse,Office Supplies,East,3930.0,4,1005.58,Customer_863
+ORD10864,2022-02-06 00:00:00,Monitor,Electronics,East,2241.55,12,573.55,Customer_864
+ORD10865,2022-02-06 01:00:00,Phone,Office Supplies,West,3175.95,10,812.64,Customer_865
+ORD10866,2022-02-06 02:00:00,Phone,Accessories,North,3272.54,6,837.35,Customer_866
+ORD10867,2022-02-06 03:00:00,Phone,Electronics,South,4234.4,1,1083.47,Customer_867
+ORD10868,2022-02-06 04:00:00,Monitor,Electronics,North,1692.12,7,432.97,Customer_868
+ORD10869,2022-02-06 05:00:00,Keyboard,Electronics,East,3467.75,16,887.3,Customer_869
+ORD10870,2022-02-06 06:00:00,Laptop,Office Supplies,East,4811.92,14,1231.24,Customer_870
+ORD10871,2022-02-06 07:00:00,Mouse,Electronics,East,3678.19,6,941.15,Customer_871
+ORD10872,2022-02-06 08:00:00,Monitor,Electronics,North,2500.37,5,639.78,Customer_872
+ORD10873,2022-02-06 09:00:00,Phone,Electronics,West,3190.52,18,816.37,Customer_873
+ORD10874,2022-02-06 10:00:00,Printer,Office Supplies,East,3724.45,15,952.99,Customer_874
+ORD10875,2022-02-06 11:00:00,Tablet,Accessories,East,3100.15,6,793.24,Customer_875
+ORD10876,2022-02-06 12:00:00,Mouse,Electronics,North,181.71,19,46.49,Customer_876
+ORD10877,2022-02-06 13:00:00,Monitor,Accessories,South,1054.39,1,269.79,Customer_877
+ORD10878,2022-02-06 14:00:00,Monitor,Office Supplies,South,4071.29,1,1041.73,Customer_878
+ORD10879,2022-02-06 15:00:00,Laptop,Office Supplies,West,1435.99,13,367.43,Customer_879
+ORD10880,2022-02-06 16:00:00,Laptop,Office Supplies,West,3684.65,3,942.8,Customer_880
+ORD10881,2022-02-06 17:00:00,Monitor,Office Supplies,East,1923.39,10,492.14,Customer_881
+ORD10882,2022-02-06 18:00:00,Phone,Accessories,North,2657.23,3,679.91,Customer_882
+ORD10883,2022-02-06 19:00:00,Tablet,Electronics,East,433.07,9,110.81,Customer_883
+ORD10884,2022-02-06 20:00:00,Mouse,Office Supplies,West,988.01,8,252.81,Customer_884
+ORD10885,2022-02-06 21:00:00,Laptop,Office Supplies,North,4790.27,3,1225.7,Customer_885
+ORD10886,2022-02-06 22:00:00,Mouse,Accessories,North,4461.68,13,1141.62,Customer_886
+ORD10887,2022-02-06 23:00:00,Phone,Accessories,West,3296.15,6,843.4,Customer_887
+ORD10888,2022-02-07 00:00:00,Mouse,Office Supplies,South,2352.26,13,601.88,Customer_888
+ORD10889,2022-02-07 01:00:00,Printer,Electronics,South,3411.23,12,872.84,Customer_889
+ORD10890,2022-02-07 02:00:00,Laptop,Electronics,North,3131.19,13,801.19,Customer_890
+ORD10891,2022-02-07 03:00:00,Phone,Office Supplies,East,2885.91,2,738.43,Customer_891
+ORD10892,2022-02-07 04:00:00,Phone,Accessories,South,389.97,16,99.78,Customer_892
+ORD10893,2022-02-07 05:00:00,Tablet,Office Supplies,East,3200.73,6,818.98,Customer_893
+ORD10894,2022-02-07 06:00:00,Tablet,Office Supplies,South,3867.71,19,989.64,Customer_894
+ORD10895,2022-02-07 07:00:00,Printer,Accessories,South,4971.0,13,1271.94,Customer_895
+ORD10896,2022-02-07 08:00:00,Phone,Office Supplies,East,154.28,17,39.48,Customer_896
+ORD10897,2022-02-07 09:00:00,Keyboard,Office Supplies,West,3677.85,9,941.06,Customer_897
+ORD10898,2022-02-07 10:00:00,Phone,Office Supplies,South,2901.77,17,742.48,Customer_898
+ORD10899,2022-02-07 11:00:00,Tablet,Accessories,South,2226.86,2,569.79,Customer_899
+ORD10900,2022-02-07 12:00:00,Keyboard,Electronics,East,725.09,19,185.53,Customer_900
+ORD10901,2022-02-07 13:00:00,Laptop,Electronics,West,2104.52,19,538.49,Customer_901
+ORD10902,2022-02-07 14:00:00,Laptop,Accessories,South,1836.45,7,469.9,Customer_902
+ORD10903,2022-02-07 15:00:00,Mouse,Electronics,South,1583.87,10,405.27,Customer_903
+ORD10904,2022-02-07 16:00:00,Monitor,Office Supplies,West,3681.31,10,941.95,Customer_904
+ORD10905,2022-02-07 17:00:00,Tablet,Electronics,South,3533.56,9,904.14,Customer_905
+ORD10906,2022-02-07 18:00:00,Monitor,Office Supplies,West,2986.2,17,764.09,Customer_906
+ORD10907,2022-02-07 19:00:00,Keyboard,Electronics,West,4699.46,15,1202.47,Customer_907
+ORD10908,2022-02-07 20:00:00,Tablet,Accessories,East,1814.29,2,464.23,Customer_908
+ORD10909,2022-02-07 21:00:00,Printer,Electronics,North,1294.63,4,331.26,Customer_909
+ORD10910,2022-02-07 22:00:00,Phone,Electronics,West,3313.93,19,847.95,Customer_910
+ORD10911,2022-02-07 23:00:00,Printer,Electronics,East,1074.19,17,274.86,Customer_911
+ORD10912,2022-02-08 00:00:00,Keyboard,Accessories,North,1643.55,5,420.54,Customer_912
+ORD10913,2022-02-08 01:00:00,Tablet,Electronics,South,1200.55,7,307.19,Customer_913
+ORD10914,2022-02-08 02:00:00,Keyboard,Accessories,North,438.85,18,112.29,Customer_914
+ORD10915,2022-02-08 03:00:00,Phone,Office Supplies,West,4154.74,7,1063.09,Customer_915
+ORD10916,2022-02-08 04:00:00,Laptop,Electronics,West,1347.25,17,344.72,Customer_916
+ORD10917,2022-02-08 05:00:00,Laptop,Accessories,West,2417.83,7,618.66,Customer_917
+ORD10918,2022-02-08 06:00:00,Keyboard,Accessories,West,312.24,4,79.89,Customer_918
+ORD10919,2022-02-08 07:00:00,Monitor,Electronics,West,3526.76,8,902.4,Customer_919
+ORD10920,2022-02-08 08:00:00,Tablet,Office Supplies,East,1719.75,13,440.04,Customer_920
+ORD10921,2022-02-08 09:00:00,Tablet,Accessories,West,3749.21,4,959.32,Customer_921
+ORD10922,2022-02-08 10:00:00,Laptop,Electronics,East,2120.77,6,542.65,Customer_922
+ORD10923,2022-02-08 11:00:00,Mouse,Office Supplies,South,1059.2,5,271.02,Customer_923
+ORD10924,2022-02-08 12:00:00,Printer,Accessories,West,2614.56,12,669.0,Customer_924
+ORD10925,2022-02-08 13:00:00,Mouse,Accessories,West,739.47,4,189.21,Customer_925
+ORD10926,2022-02-08 14:00:00,Phone,Office Supplies,North,2258.64,9,577.93,Customer_926
+ORD10927,2022-02-08 15:00:00,Printer,Office Supplies,South,1654.8,4,423.42,Customer_927
+ORD10928,2022-02-08 16:00:00,Printer,Electronics,West,4568.6,19,1168.98,Customer_928
+ORD10929,2022-02-08 17:00:00,Keyboard,Electronics,West,398.55,14,101.98,Customer_929
+ORD10930,2022-02-08 18:00:00,Laptop,Accessories,South,3500.69,5,895.73,Customer_930
+ORD10931,2022-02-08 19:00:00,Mouse,Office Supplies,East,995.48,18,254.72,Customer_931
+ORD10932,2022-02-08 20:00:00,Mouse,Office Supplies,West,1663.32,10,425.6,Customer_932
+ORD10933,2022-02-08 21:00:00,Laptop,Office Supplies,North,2136.02,19,546.55,Customer_933
+ORD10934,2022-02-08 22:00:00,Mouse,Accessories,West,4549.27,12,1164.04,Customer_934
+ORD10935,2022-02-08 23:00:00,Laptop,Office Supplies,North,1288.63,18,329.73,Customer_935
+ORD10936,2022-02-09 00:00:00,Keyboard,Office Supplies,North,547.41,17,140.07,Customer_936
+ORD10937,2022-02-09 01:00:00,Monitor,Accessories,West,1661.58,11,425.15,Customer_937
+ORD10938,2022-02-09 02:00:00,Printer,Electronics,West,612.91,3,156.83,Customer_938
+ORD10939,2022-02-09 03:00:00,Keyboard,Electronics,North,730.12,17,186.82,Customer_939
+ORD10940,2022-02-09 04:00:00,Tablet,Accessories,South,2911.87,1,745.07,Customer_940
+ORD10941,2022-02-09 05:00:00,Phone,Office Supplies,South,398.42,15,101.94,Customer_941
+ORD10942,2022-02-09 06:00:00,Monitor,Accessories,West,251.56,9,64.37,Customer_942
+ORD10943,2022-02-09 07:00:00,Tablet,Electronics,East,3600.63,15,921.3,Customer_943
+ORD10944,2022-02-09 08:00:00,Printer,Electronics,South,1872.07,3,479.01,Customer_944
+ORD10945,2022-02-09 09:00:00,Mouse,Accessories,West,714.34,19,182.78,Customer_945
+ORD10946,2022-02-09 10:00:00,Laptop,Accessories,South,1342.7,13,343.56,Customer_946
+ORD10947,2022-02-09 11:00:00,Printer,Electronics,East,3246.22,12,830.62,Customer_947
+ORD10948,2022-02-09 12:00:00,Keyboard,Accessories,West,1450.13,1,371.05,Customer_948
+ORD10949,2022-02-09 13:00:00,Phone,Electronics,East,2523.15,17,645.61,Customer_949
+ORD10950,2022-02-09 14:00:00,Keyboard,Accessories,West,696.31,13,178.17,Customer_950
+ORD10951,2022-02-09 15:00:00,Monitor,Accessories,East,2981.66,1,762.93,Customer_951
+ORD10952,2022-02-09 16:00:00,Monitor,Accessories,South,1648.78,10,421.88,Customer_952
+ORD10953,2022-02-09 17:00:00,Phone,Electronics,South,3172.15,15,811.67,Customer_953
+ORD10954,2022-02-09 18:00:00,Tablet,Accessories,East,4061.13,7,1039.13,Customer_954
+ORD10955,2022-02-09 19:00:00,Tablet,Electronics,East,3097.07,18,792.46,Customer_955
+ORD10956,2022-02-09 20:00:00,Monitor,Electronics,East,1549.16,16,396.39,Customer_956
+ORD10957,2022-02-09 21:00:00,Monitor,Accessories,West,1353.14,14,346.23,Customer_957
+ORD10958,2022-02-09 22:00:00,Mouse,Accessories,South,1704.36,18,436.1,Customer_958
+ORD10959,2022-02-09 23:00:00,Laptop,Electronics,West,906.64,7,231.98,Customer_959
+ORD10960,2022-02-10 00:00:00,Mouse,Electronics,South,987.74,17,252.74,Customer_960
+ORD10961,2022-02-10 01:00:00,Mouse,Office Supplies,North,3974.39,18,1016.94,Customer_961
+ORD10962,2022-02-10 02:00:00,Tablet,Electronics,West,1985.19,12,507.96,Customer_962
+ORD10963,2022-02-10 03:00:00,Phone,Office Supplies,South,2236.38,8,572.23,Customer_963
+ORD10964,2022-02-10 04:00:00,Tablet,Office Supplies,South,3010.84,2,770.39,Customer_964
+ORD10965,2022-02-10 05:00:00,Laptop,Office Supplies,West,2989.3,7,764.88,Customer_965
+ORD10966,2022-02-10 06:00:00,Keyboard,Accessories,West,430.15,4,110.06,Customer_966
+ORD10967,2022-02-10 07:00:00,Monitor,Accessories,South,4174.55,18,1068.15,Customer_967
+ORD10968,2022-02-10 08:00:00,Monitor,Electronics,West,968.9,6,247.92,Customer_968
+ORD10969,2022-02-10 09:00:00,Laptop,Office Supplies,East,3643.05,9,932.16,Customer_969
+ORD10970,2022-02-10 10:00:00,Mouse,Accessories,West,3886.09,9,994.35,Customer_970
+ORD10971,2022-02-10 11:00:00,Phone,Accessories,West,3603.01,14,921.91,Customer_971
+ORD10972,2022-02-10 12:00:00,Monitor,Accessories,West,2936.99,8,751.5,Customer_972
+ORD10973,2022-02-10 13:00:00,Printer,Accessories,South,171.58,19,43.9,Customer_973
+ORD10974,2022-02-10 14:00:00,Mouse,Accessories,East,1865.84,3,477.42,Customer_974
+ORD10975,2022-02-10 15:00:00,Monitor,Office Supplies,North,3063.71,18,783.92,Customer_975
+ORD10976,2022-02-10 16:00:00,Printer,Office Supplies,North,1998.51,5,511.36,Customer_976
+ORD10977,2022-02-10 17:00:00,Laptop,Office Supplies,East,4331.05,14,1108.2,Customer_977
+ORD10978,2022-02-10 18:00:00,Laptop,Office Supplies,East,1613.13,4,412.76,Customer_978
+ORD10979,2022-02-10 19:00:00,Mouse,Electronics,East,1538.32,7,393.61,Customer_979
+ORD10980,2022-02-10 20:00:00,Monitor,Office Supplies,South,1403.39,12,359.09,Customer_980
+ORD10981,2022-02-10 21:00:00,Tablet,Accessories,North,1730.63,2,442.82,Customer_981
+ORD10982,2022-02-10 22:00:00,Printer,Office Supplies,East,2831.28,11,724.45,Customer_982
+ORD10983,2022-02-10 23:00:00,Phone,Electronics,South,3564.37,14,912.03,Customer_983
+ORD10984,2022-02-11 00:00:00,Monitor,Accessories,North,3346.58,16,856.3,Customer_984
+ORD10985,2022-02-11 01:00:00,Phone,Office Supplies,West,4057.82,6,1038.29,Customer_985
+ORD10986,2022-02-11 02:00:00,Monitor,Office Supplies,South,4440.98,4,1136.33,Customer_986
+ORD10987,2022-02-11 03:00:00,Tablet,Office Supplies,North,4098.79,15,1048.77,Customer_987
+ORD10988,2022-02-11 04:00:00,Tablet,Accessories,South,192.83,1,49.34,Customer_988
+ORD10989,2022-02-11 05:00:00,Mouse,Accessories,North,3706.0,7,948.27,Customer_989
+ORD10990,2022-02-11 06:00:00,Mouse,Electronics,North,1121.16,12,286.87,Customer_990
+ORD10991,2022-02-11 07:00:00,Tablet,Accessories,West,751.35,10,192.25,Customer_991
+ORD10992,2022-02-11 08:00:00,Keyboard,Accessories,South,3228.6,5,826.11,Customer_992
+ORD10993,2022-02-11 09:00:00,Tablet,Office Supplies,East,1666.74,12,426.47,Customer_993
+ORD10994,2022-02-11 10:00:00,Laptop,Accessories,West,379.87,18,97.2,Customer_994
+ORD10995,2022-02-11 11:00:00,Laptop,Office Supplies,West,774.39,10,198.15,Customer_995
+ORD10996,2022-02-11 12:00:00,Keyboard,Office Supplies,North,104.55,6,26.75,Customer_996
+ORD10997,2022-02-11 13:00:00,Printer,Accessories,East,4525.8,12,1158.03,Customer_997
+ORD10998,2022-02-11 14:00:00,Phone,Electronics,South,220.63,7,56.45,Customer_998
+ORD10999,2022-02-11 15:00:00,Monitor,Electronics,East,1126.33,18,288.2,Customer_999
